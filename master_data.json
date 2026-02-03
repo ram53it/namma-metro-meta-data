@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-02-03T10:08:07.404Z",
+  "lastUpdated": "2026-02-03T13:48:10.947Z",
   "schedules": {
     "version": 1770011872421,
     "generatedAt": "2026-02-02T05:57:52.421Z",
@@ -238,512 +238,1007 @@
           "monday": {
             "routes": [
               {
-                "fromTerminal": "WHITEFIELD",
-                "toTerminal": "CHALLAGHATTA",
+                "fromTerminal": "Whitefield (Kadugodi)",
+                "toTerminal": "Challaghatta",
                 "timeSlots": [
                   {
                     "fromTime": 15300,
-                    "toTime": 16500,
                     "fromTimeStr": "04:15",
+                    "toTime": 16500,
                     "toTimeStr": "04:35",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 16500,
-                    "toTime": 18000,
                     "fromTimeStr": "04:35",
+                    "toTime": 18000,
                     "toTimeStr": "05:00",
                     "frequencyMinutes": 13
                   },
                   {
                     "fromTime": 18000,
-                    "toTime": 39420,
                     "fromTimeStr": "05:00",
+                    "toTime": 39420,
                     "toTimeStr": "10:57",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 39420,
-                    "toTime": 55260,
                     "fromTimeStr": "10:57",
+                    "toTime": 55260,
                     "toTimeStr": "15:21",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 55260,
-                    "toTime": 79260,
                     "fromTimeStr": "15:21",
+                    "toTime": 79260,
                     "toTimeStr": "22:01",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 79260,
-                    "toTime": 81900,
                     "fromTimeStr": "22:01",
+                    "toTime": 81900,
                     "toTimeStr": "22:45",
                     "frequencyMinutes": 15
                   }
                 ]
               },
               {
-                "fromTerminal": "GARUDACHAR PALYA",
-                "toTerminal": "CHALLAGHATTA",
-                "timeSlots": [
-                  {
-                    "fromTime": 24780,
-                    "toTime": 39300,
-                    "fromTimeStr": "06:53",
-                    "toTimeStr": "10:55",
-                    "frequencyMinutes": 5
-                  },
-                  {
-                    "fromTime": 58200,
-                    "toTime": 72600,
-                    "fromTimeStr": "16:10",
-                    "toTimeStr": "20:10",
-                    "frequencyMinutes": 5
-                  }
-                ]
-              },
-              {
-                "fromTerminal": "CHALLAGHATTA",
-                "toTerminal": "Whitefield",
+                "fromTerminal": "Challaghatta",
+                "toTerminal": "Whitefield (Kadugodi)",
                 "timeSlots": [
                   {
                     "fromTime": 15300,
-                    "toTime": 16500,
                     "fromTimeStr": "04:15",
+                    "toTime": 16500,
                     "toTimeStr": "04:35",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 16500,
-                    "toTime": 18900,
                     "fromTimeStr": "04:35",
+                    "toTime": 18900,
                     "toTimeStr": "05:15",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 18900,
-                    "toTime": 24840,
                     "fromTimeStr": "05:15",
+                    "toTime": 24840,
                     "toTimeStr": "06:54",
                     "frequencyMinutes": 11
                   },
                   {
                     "fromTime": 24840,
-                    "toTime": 44400,
                     "fromTimeStr": "06:54",
+                    "toTime": 44400,
                     "toTimeStr": "12:20",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 44400,
-                    "toTime": 60300,
                     "fromTimeStr": "12:20",
+                    "toTime": 60300,
                     "toTimeStr": "16:45",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 60300,
-                    "toTime": 83100,
                     "fromTimeStr": "16:45",
+                    "toTime": 83100,
                     "toTimeStr": "23:05",
                     "frequencyMinutes": 10
                   }
                 ]
               },
               {
-                "fromTerminal": "MYSORE ROAD",
-                "toTerminal": "Whitefield",
+                "fromTerminal": "Garudacharpalya",
+                "toTerminal": "Challaghatta",
+                "timeSlots": [
+                  {
+                    "fromTime": 24780,
+                    "fromTimeStr": "06:53",
+                    "toTime": 39300,
+                    "toTimeStr": "10:55",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 58200,
+                    "fromTimeStr": "16:10",
+                    "toTime": 72600,
+                    "toTimeStr": "20:10",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Mysuru Road",
+                "toTerminal": "Whitefield (Kadugodi)",
                 "timeSlots": [
                   {
                     "fromTime": 26520,
-                    "toTime": 37200,
                     "fromTimeStr": "07:22",
+                    "toTime": 37200,
                     "toTimeStr": "10:20",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 60780,
-                    "toTime": 75720,
                     "fromTimeStr": "16:53",
+                    "toTime": 75720,
                     "toTimeStr": "21:02",
                     "frequencyMinutes": 5
                   }
                 ]
               },
               {
-                "fromTerminal": "Kempegowda",
-                "toTerminal": "Whitefield",
+                "fromTerminal": "Nadaprabhu Kempegowda Station, Majestic",
+                "toTerminal": "Whitefield (Kadugodi)",
                 "timeSlots": [
                   {
                     "fromTime": 26520,
-                    "toTime": 37200,
                     "fromTimeStr": "07:22",
+                    "toTime": 37200,
                     "toTimeStr": "10:20",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Mysuru Road",
+                "toTerminal": "Garudacharpalya",
+                "timeSlots": [
+                  {
+                    "fromTime": 28080,
+                    "fromTimeStr": "07:48",
+                    "toTime": 32460,
+                    "toTimeStr": "09:01",
+                    "frequencyMinutes": 10
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Pattandur Agrahara (ITPL)",
+                "toTerminal": "Mysuru Road",
+                "timeSlots": [
+                  {
+                    "fromTime": 57360,
+                    "fromTimeStr": "15:56",
+                    "toTime": 71760,
+                    "toTimeStr": "19:56",
                     "frequencyMinutes": 5
                   }
                 ]
               }
             ],
-            "shortLoops": []
+            "shortLoops": [
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Baiyappanahalli",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 28500,
+                    "timeStr": "07:55"
+                  },
+                  {
+                    "timeSeconds": 29100,
+                    "timeStr": "08:05"
+                  },
+                  {
+                    "timeSeconds": 31680,
+                    "timeStr": "08:48"
+                  },
+                  {
+                    "timeSeconds": 42780,
+                    "timeStr": "11:53"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Pattandur Agrahara (ITPL)",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 32280,
+                    "timeStr": "08:58"
+                  },
+                  {
+                    "timeSeconds": 32820,
+                    "timeStr": "09:07"
+                  },
+                  {
+                    "timeSeconds": 33480,
+                    "timeStr": "09:18"
+                  },
+                  {
+                    "timeSeconds": 34080,
+                    "timeStr": "09:28"
+                  },
+                  {
+                    "timeSeconds": 34740,
+                    "timeStr": "09:39"
+                  },
+                  {
+                    "timeSeconds": 35340,
+                    "timeStr": "09:49"
+                  },
+                  {
+                    "timeSeconds": 36000,
+                    "timeStr": "10:00"
+                  },
+                  {
+                    "timeSeconds": 36600,
+                    "timeStr": "10:10"
+                  },
+                  {
+                    "timeSeconds": 37260,
+                    "timeStr": "10:21"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Whitefield (Kadugodi)",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 38340,
+                    "timeStr": "10:39"
+                  },
+                  {
+                    "timeSeconds": 39000,
+                    "timeStr": "10:50"
+                  },
+                  {
+                    "timeSeconds": 39600,
+                    "timeStr": "11:00"
+                  },
+                  {
+                    "timeSeconds": 40260,
+                    "timeStr": "11:11"
+                  },
+                  {
+                    "timeSeconds": 40920,
+                    "timeStr": "11:22"
+                  },
+                  {
+                    "timeSeconds": 42180,
+                    "timeStr": "11:43"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Baiyappanahalli",
+                "toStation": "Mysuru Road",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 58440,
+                    "timeStr": "16:14"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Baiyappanahalli",
+                "toStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 63360,
+                    "timeStr": "17:36"
+                  },
+                  {
+                    "timeSeconds": 63960,
+                    "timeStr": "17:46"
+                  },
+                  {
+                    "timeSeconds": 66420,
+                    "timeStr": "18:27"
+                  },
+                  {
+                    "timeSeconds": 67020,
+                    "timeStr": "18:37"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Mahatma Gandhi Road",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 68040,
+                    "timeStr": "18:54"
+                  },
+                  {
+                    "timeSeconds": 68640,
+                    "timeStr": "19:04"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Mahatma Gandhi Road",
+                "toStation": "Challaghatta",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 68640,
+                    "timeStr": "19:04"
+                  },
+                  {
+                    "timeSeconds": 69240,
+                    "timeStr": "19:14"
+                  }
+                ]
+              }
+            ]
           },
           "tuesday_to_friday": {
             "routes": [
               {
-                "fromTerminal": "WHITEFIELD",
-                "toTerminal": "CHALLAGHATTA",
+                "fromTerminal": "Whitefield (Kadugodi)",
+                "toTerminal": "Challaghatta",
                 "timeSlots": [
                   {
                     "fromTime": 18000,
-                    "toTime": 19200,
                     "fromTimeStr": "05:00",
+                    "toTime": 19200,
                     "toTimeStr": "05:20",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 19200,
-                    "toTime": 39420,
                     "fromTimeStr": "05:20",
+                    "toTime": 39420,
                     "toTimeStr": "10:57",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 39420,
-                    "toTime": 55260,
                     "fromTimeStr": "10:57",
+                    "toTime": 55260,
                     "toTimeStr": "15:21",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 55260,
-                    "toTime": 79260,
                     "fromTimeStr": "15:21",
+                    "toTime": 79260,
                     "toTimeStr": "22:01",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 79260,
-                    "toTime": 81900,
                     "fromTimeStr": "22:01",
+                    "toTime": 81900,
                     "toTimeStr": "22:45",
                     "frequencyMinutes": 15
                   }
                 ]
               },
               {
-                "fromTerminal": "CHALLAGHATTA",
-                "toTerminal": "WHITEFIELD",
+                "fromTerminal": "Challaghatta",
+                "toTerminal": "Whitefield (Kadugodi)",
                 "timeSlots": [
                   {
                     "fromTime": 18000,
-                    "toTime": 19200,
                     "fromTimeStr": "05:00",
+                    "toTime": 19200,
                     "toTimeStr": "05:20",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 19200,
-                    "toTime": 21600,
                     "fromTimeStr": "05:20",
+                    "toTime": 21600,
                     "toTimeStr": "06:00",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 21600,
-                    "toTime": 24840,
                     "fromTimeStr": "06:00",
+                    "toTime": 24840,
                     "toTimeStr": "06:54",
                     "frequencyMinutes": 11
                   },
                   {
                     "fromTime": 24840,
-                    "toTime": 44400,
                     "fromTimeStr": "06:54",
+                    "toTime": 44400,
                     "toTimeStr": "12:20",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 44400,
-                    "toTime": 57720,
                     "fromTimeStr": "12:20",
+                    "toTime": 57720,
                     "toTimeStr": "16:02",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 57720,
-                    "toTime": 83100,
                     "fromTimeStr": "16:02",
+                    "toTime": 83100,
                     "toTimeStr": "23:05",
                     "frequencyMinutes": 10
                   }
                 ]
               },
               {
-                "fromTerminal": "GARUDACHAR PALYA",
-                "toTerminal": "CHALLAGHATTA",
+                "fromTerminal": "Garudacharpalya",
+                "toTerminal": "Challaghatta",
                 "timeSlots": [
                   {
                     "fromTime": 24780,
-                    "toTime": 39300,
                     "fromTimeStr": "06:53",
+                    "toTime": 39300,
                     "toTimeStr": "10:55",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 58200,
-                    "toTime": 72600,
                     "fromTimeStr": "16:10",
+                    "toTime": 72600,
                     "toTimeStr": "20:10",
                     "frequencyMinutes": 5
                   }
                 ]
               },
               {
-                "fromTerminal": "MYSORE ROAD",
-                "toTerminal": "Whitefield",
+                "fromTerminal": "Mysuru Road",
+                "toTerminal": "Whitefield (Kadugodi)",
                 "timeSlots": [
                   {
                     "fromTime": 26520,
-                    "toTime": 37200,
                     "fromTimeStr": "07:22",
+                    "toTime": 37200,
                     "toTimeStr": "10:20",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 60780,
-                    "toTime": 75720,
                     "fromTimeStr": "16:53",
+                    "toTime": 75720,
                     "toTimeStr": "21:02",
                     "frequencyMinutes": 5
                   }
                 ]
               },
               {
-                "fromTerminal": "Kempegowda",
-                "toTerminal": "Whitefield",
-                "timeSlots": []
+                "fromTerminal": "Nadaprabhu Kempegowda Station, Majestic",
+                "toTerminal": "Whitefield (Kadugodi)",
+                "timeSlots": [
+                  {
+                    "fromTime": 31440,
+                    "fromTimeStr": "08:44",
+                    "toTime": 37440,
+                    "toTimeStr": "10:24",
+                    "frequencyMinutes": 3.3
+                  }
+                ]
               },
               {
-                "fromTerminal": "Mysore road",
-                "toTerminal": "Garudachar palya",
-                "timeSlots": []
+                "fromTerminal": "Mysuru Road",
+                "toTerminal": "Garudacharpalya",
+                "timeSlots": [
+                  {
+                    "fromTime": 28080,
+                    "fromTimeStr": "07:48",
+                    "toTime": 32460,
+                    "toTimeStr": "09:01",
+                    "frequencyMinutes": 10
+                  }
+                ]
               },
               {
-                "fromTerminal": "Pattandur Agrahara",
-                "toTerminal": "Mysore road",
-                "timeSlots": []
+                "fromTerminal": "Pattandur Agrahara (ITPL)",
+                "toTerminal": "Mysuru Road",
+                "timeSlots": [
+                  {
+                    "fromTime": 57360,
+                    "fromTimeStr": "15:56",
+                    "toTime": 71760,
+                    "toTimeStr": "19:56",
+                    "frequencyMinutes": 5
+                  }
+                ]
               }
             ],
-            "shortLoops": []
+            "shortLoops": [
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Baiyappanahalli",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 28500,
+                    "timeStr": "07:55"
+                  },
+                  {
+                    "timeSeconds": 29100,
+                    "timeStr": "08:05"
+                  },
+                  {
+                    "timeSeconds": 31680,
+                    "timeStr": "08:48"
+                  },
+                  {
+                    "timeSeconds": 42780,
+                    "timeStr": "11:53"
+                  },
+                  {
+                    "timeSeconds": 64980,
+                    "timeStr": "18:03"
+                  },
+                  {
+                    "timeSeconds": 65580,
+                    "timeStr": "18:13"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Pattandur Agrahara (ITPL)",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 32280,
+                    "timeStr": "08:58"
+                  },
+                  {
+                    "timeSeconds": 32820,
+                    "timeStr": "09:07"
+                  },
+                  {
+                    "timeSeconds": 33480,
+                    "timeStr": "09:18"
+                  },
+                  {
+                    "timeSeconds": 34080,
+                    "timeStr": "09:28"
+                  },
+                  {
+                    "timeSeconds": 34740,
+                    "timeStr": "09:39"
+                  },
+                  {
+                    "timeSeconds": 35340,
+                    "timeStr": "09:49"
+                  },
+                  {
+                    "timeSeconds": 36000,
+                    "timeStr": "10:00"
+                  },
+                  {
+                    "timeSeconds": 36600,
+                    "timeStr": "10:10"
+                  },
+                  {
+                    "timeSeconds": 37260,
+                    "timeStr": "10:21"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Whitefield (Kadugodi)",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 38340,
+                    "timeStr": "10:39"
+                  },
+                  {
+                    "timeSeconds": 39000,
+                    "timeStr": "10:50"
+                  },
+                  {
+                    "timeSeconds": 39600,
+                    "timeStr": "11:00"
+                  },
+                  {
+                    "timeSeconds": 40260,
+                    "timeStr": "11:11"
+                  },
+                  {
+                    "timeSeconds": 40920,
+                    "timeStr": "11:22"
+                  },
+                  {
+                    "timeSeconds": 42180,
+                    "timeStr": "11:43"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Baiyappanahalli",
+                "toStation": "Mysuru Road",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 58440,
+                    "timeStr": "16:14"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Baiyappanahalli",
+                "toStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 63360,
+                    "timeStr": "17:36"
+                  },
+                  {
+                    "timeSeconds": 63960,
+                    "timeStr": "17:46"
+                  },
+                  {
+                    "timeSeconds": 66420,
+                    "timeStr": "18:27"
+                  },
+                  {
+                    "timeSeconds": 67020,
+                    "timeStr": "18:37"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Mahatma Gandhi Road",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 68040,
+                    "timeStr": "18:54"
+                  },
+                  {
+                    "timeSeconds": 68640,
+                    "timeStr": "19:04"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Mahatma Gandhi Road",
+                "toStation": "Challaghatta",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 68640,
+                    "timeStr": "19:04"
+                  },
+                  {
+                    "timeSeconds": 69240,
+                    "timeStr": "19:14"
+                  }
+                ]
+              }
+            ]
           },
           "saturday": {
             "routes": [
               {
-                "fromTerminal": "WHITEFIELD",
-                "toTerminal": "CHALLAGHATTA",
+                "fromTerminal": "Whitefield (Kadugodi)",
+                "toTerminal": "Challaghatta",
                 "timeSlots": [
                   {
                     "fromTime": 18000,
-                    "toTime": 19200,
                     "fromTimeStr": "05:00",
+                    "toTime": 19200,
                     "toTimeStr": "05:20",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 19200,
-                    "toTime": 39420,
                     "fromTimeStr": "05:20",
+                    "toTime": 39420,
                     "toTimeStr": "10:57",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 39420,
-                    "toTime": 55260,
                     "fromTimeStr": "10:57",
+                    "toTime": 55260,
                     "toTimeStr": "15:21",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 55260,
-                    "toTime": 79260,
                     "fromTimeStr": "15:21",
+                    "toTime": 79260,
                     "toTimeStr": "22:01",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 79260,
-                    "toTime": 81900,
                     "fromTimeStr": "22:01",
+                    "toTime": 81900,
                     "toTimeStr": "22:45",
                     "frequencyMinutes": 15
                   }
                 ]
               },
               {
-                "fromTerminal": "CHALLAGHATTA",
-                "toTerminal": "WHITEFIELD",
+                "fromTerminal": "Challaghatta",
+                "toTerminal": "Whitefield (Kadugodi)",
                 "timeSlots": [
                   {
                     "fromTime": 18000,
-                    "toTime": 19200,
                     "fromTimeStr": "05:00",
+                    "toTime": 19200,
                     "toTimeStr": "05:20",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 19200,
-                    "toTime": 21600,
                     "fromTimeStr": "05:20",
+                    "toTime": 21600,
                     "toTimeStr": "06:00",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 21600,
-                    "toTime": 24840,
                     "fromTimeStr": "06:00",
+                    "toTime": 24840,
                     "toTimeStr": "06:54",
                     "frequencyMinutes": 11
                   },
                   {
                     "fromTime": 24840,
-                    "toTime": 44400,
                     "fromTimeStr": "06:54",
+                    "toTime": 44400,
                     "toTimeStr": "12:20",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 44400,
-                    "toTime": 60300,
                     "fromTimeStr": "12:20",
+                    "toTime": 60300,
                     "toTimeStr": "16:45",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 60300,
-                    "toTime": 83100,
                     "fromTimeStr": "16:45",
+                    "toTime": 83100,
                     "toTimeStr": "23:05",
                     "frequencyMinutes": 10
                   }
                 ]
               },
               {
-                "fromTerminal": "GARUDACHAR PALYA",
-                "toTerminal": "CHALLAGHATTA",
+                "fromTerminal": "Garudacharpalya",
+                "toTerminal": "Challaghatta",
                 "timeSlots": [
                   {
                     "fromTime": 24780,
-                    "toTime": 39300,
                     "fromTimeStr": "06:53",
+                    "toTime": 39300,
                     "toTimeStr": "10:55",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 58200,
-                    "toTime": 72600,
                     "fromTimeStr": "16:10",
+                    "toTime": 72600,
                     "toTimeStr": "20:10",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 65400,
-                    "toTime": 72600,
                     "fromTimeStr": "18:10",
+                    "toTime": 72600,
                     "toTimeStr": "20:10",
                     "frequencyMinutes": 5
                   }
                 ]
               },
               {
-                "fromTerminal": "MYSORE ROAD",
-                "toTerminal": "Whitefield",
+                "fromTerminal": "Mysuru Road",
+                "toTerminal": "Whitefield (Kadugodi)",
                 "timeSlots": [
                   {
                     "fromTime": 26520,
-                    "toTime": 37200,
                     "fromTimeStr": "07:22",
+                    "toTime": 37200,
                     "toTimeStr": "10:20",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 61320,
-                    "toTime": 75720,
                     "fromTimeStr": "17:02",
+                    "toTime": 75720,
                     "toTimeStr": "21:02",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Nadaprabhu Kempegowda Station, Majestic",
+                "toTerminal": "Whitefield (Kadugodi)",
+                "timeSlots": [
+                  {
+                    "fromTime": 31440,
+                    "fromTimeStr": "08:44",
+                    "toTime": 37440,
+                    "toTimeStr": "10:24",
+                    "frequencyMinutes": 3.3
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Mysuru Road",
+                "toTerminal": "Garudacharpalya",
+                "timeSlots": [
+                  {
+                    "fromTime": 28080,
+                    "fromTimeStr": "07:48",
+                    "toTime": 32460,
+                    "toTimeStr": "09:01",
+                    "frequencyMinutes": 10
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Pattandur Agrahara (ITPL)",
+                "toTerminal": "Mysuru Road",
+                "timeSlots": [
+                  {
+                    "fromTime": 64560,
+                    "fromTimeStr": "17:56",
+                    "toTime": 71760,
+                    "toTimeStr": "19:56",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Baiyappanahalli",
+                "toTerminal": "Mysuru Road",
+                "timeSlots": [
+                  {
+                    "fromTime": 58740,
+                    "fromTimeStr": "16:19",
+                    "toTime": 73140,
+                    "toTimeStr": "20:19",
                     "frequencyMinutes": 5
                   }
                 ]
               }
             ],
-            "shortLoops": []
+            "shortLoops": [
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Baiyappanahalli",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 42780,
+                    "timeStr": "11:53"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Pattandur Agrahara (ITPL)",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 32280,
+                    "timeStr": "08:58"
+                  },
+                  {
+                    "timeSeconds": 32820,
+                    "timeStr": "09:07"
+                  },
+                  {
+                    "timeSeconds": 34080,
+                    "timeStr": "09:28"
+                  },
+                  {
+                    "timeSeconds": 34740,
+                    "timeStr": "09:39"
+                  },
+                  {
+                    "timeSeconds": 36000,
+                    "timeStr": "10:00"
+                  },
+                  {
+                    "timeSeconds": 36600,
+                    "timeStr": "10:10"
+                  },
+                  {
+                    "timeSeconds": 37260,
+                    "timeStr": "10:21"
+                  }
+                ]
+              },
+              {
+                "fromStation": "Nadaprabhu Kempegowda Station, Majestic",
+                "toStation": "Whitefield (Kadugodi)",
+                "departureTimes": [
+                  {
+                    "timeSeconds": 38340,
+                    "timeStr": "10:39"
+                  },
+                  {
+                    "timeSeconds": 39000,
+                    "timeStr": "10:50"
+                  },
+                  {
+                    "timeSeconds": 39600,
+                    "timeStr": "11:00"
+                  },
+                  {
+                    "timeSeconds": 40260,
+                    "timeStr": "11:11"
+                  },
+                  {
+                    "timeSeconds": 40920,
+                    "timeStr": "11:22"
+                  },
+                  {
+                    "timeSeconds": 42180,
+                    "timeStr": "11:43"
+                  }
+                ]
+              }
+            ]
           },
           "sunday": {
             "routes": [
               {
-                "fromTerminal": "WHITEFIELD",
-                "toTerminal": "CHALLAGHATTA",
+                "fromTerminal": "Whitefield (Kadugodi)",
+                "toTerminal": "Challaghatta",
                 "timeSlots": [
                   {
                     "fromTime": 25200,
-                    "toTime": 37980,
                     "fromTimeStr": "07:00",
+                    "toTime": 37980,
                     "toTimeStr": "10:33",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 37980,
-                    "toTime": 72060,
                     "fromTimeStr": "10:33",
+                    "toTime": 72060,
                     "toTimeStr": "20:01",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 72060,
-                    "toTime": 81060,
                     "fromTimeStr": "20:01",
+                    "toTime": 81060,
                     "toTimeStr": "22:31",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 81060,
-                    "toTime": 81900,
                     "fromTimeStr": "22:31",
+                    "toTime": 81900,
                     "toTimeStr": "22:45",
                     "frequencyMinutes": 14
                   }
                 ]
               },
               {
-                "fromTerminal": "CHALLAGHATTA",
-                "toTerminal": "WHITEFIELD",
+                "fromTerminal": "Challaghatta",
+                "toTerminal": "Whitefield (Kadugodi)",
                 "timeSlots": [
                   {
                     "fromTime": 25200,
-                    "toTime": 28200,
                     "fromTimeStr": "07:00",
+                    "toTime": 28200,
                     "toTimeStr": "07:50",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 28200,
-                    "toTime": 43200,
                     "fromTimeStr": "07:50",
+                    "toTime": 43200,
                     "toTimeStr": "12:00",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 43200,
-                    "toTime": 77280,
                     "fromTimeStr": "12:00",
+                    "toTime": 77280,
                     "toTimeStr": "21:28",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 77280,
-                    "toTime": 83100,
                     "fromTimeStr": "21:28",
+                    "toTime": 83100,
                     "toTimeStr": "23:05",
                     "frequencyMinutes": 10
                   }
@@ -957,178 +1452,178 @@
           "monday": {
             "routes": [
               {
-                "fromTerminal": "MADAVARA",
-                "toTerminal": "SILK INSTITUTE",
+                "fromTerminal": "Madvavara",
+                "toTerminal": "Silk Institute",
                 "timeSlots": [
                   {
                     "fromTime": 15300,
-                    "toTime": 16800,
                     "fromTimeStr": "04:15",
+                    "toTime": 16800,
                     "toTimeStr": "04:40",
                     "frequencyMinutes": 25
                   },
                   {
                     "fromTime": 18000,
-                    "toTime": 22500,
                     "fromTimeStr": "05:00",
+                    "toTime": 22500,
                     "toTimeStr": "06:15",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 22500,
-                    "toTime": 37500,
                     "fromTimeStr": "06:15",
+                    "toTime": 37500,
                     "toTimeStr": "10:25",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 37500,
-                    "toTime": 38340,
                     "fromTimeStr": "10:25",
+                    "toTime": 38340,
                     "toTimeStr": "10:39",
                     "frequencyMinutes": 7
                   },
                   {
                     "fromTime": 38340,
-                    "toTime": 57060,
                     "fromTimeStr": "10:39",
+                    "toTime": 57060,
                     "toTimeStr": "15:51",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 57060,
-                    "toTime": 71040,
                     "fromTimeStr": "15:51",
+                    "toTime": 71040,
                     "toTimeStr": "19:44",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 71040,
-                    "toTime": 73440,
                     "fromTimeStr": "19:44",
+                    "toTime": 73440,
                     "toTimeStr": "20:24",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 73440,
-                    "toTime": 79440,
                     "fromTimeStr": "20:24",
+                    "toTime": 79440,
                     "toTimeStr": "22:04",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 79440,
-                    "toTime": 81600,
                     "fromTimeStr": "22:04",
+                    "toTime": 81600,
                     "toTimeStr": "22:40",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 81600,
-                    "toTime": 82620,
                     "fromTimeStr": "22:40",
+                    "toTime": 82620,
                     "toTimeStr": "22:57",
                     "frequencyMinutes": 15
                   }
                 ]
               },
               {
-                "fromTerminal": "SILK INSTITUTE",
-                "toTerminal": "MADAVARA",
+                "fromTerminal": "Silk Institute",
+                "toTerminal": "Madvavara",
                 "timeSlots": [
                   {
                     "fromTime": 15300,
-                    "toTime": 18000,
                     "fromTimeStr": "04:15",
+                    "toTime": 18000,
                     "toTimeStr": "05:00",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 18000,
-                    "toTime": 25200,
                     "fromTimeStr": "05:00",
+                    "toTime": 25200,
                     "toTimeStr": "07:00",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 25200,
-                    "toTime": 40140,
                     "fromTimeStr": "07:00",
+                    "toTime": 40140,
                     "toTimeStr": "11:09",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 40140,
-                    "toTime": 60480,
                     "fromTimeStr": "11:09",
+                    "toTime": 60480,
                     "toTimeStr": "16:48",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 60480,
-                    "toTime": 73740,
                     "fromTimeStr": "16:48",
+                    "toTime": 73740,
                     "toTimeStr": "20:29",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 73740,
-                    "toTime": 77400,
                     "fromTimeStr": "20:29",
+                    "toTime": 77400,
                     "toTimeStr": "21:30",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 77400,
-                    "toTime": 81600,
                     "fromTimeStr": "21:30",
+                    "toTime": 81600,
                     "toTimeStr": "22:40",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 81600,
-                    "toTime": 83100,
                     "fromTimeStr": "22:40",
+                    "toTime": 83100,
                     "toTimeStr": "23:05",
                     "frequencyMinutes": 12.5
                   }
                 ]
               },
               {
-                "fromTerminal": "NAGASANDRA / PEENYA INDUSTRY",
-                "toTerminal": "SILK INSTITUTE",
+                "fromTerminal": "Nagasandra",
+                "toTerminal": "Silk Institute",
                 "timeSlots": [
                   {
                     "fromTime": 23820,
-                    "toTime": 37320,
                     "fromTimeStr": "06:37",
+                    "toTime": 37320,
                     "toTimeStr": "10:22",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 59760,
-                    "toTime": 70860,
                     "fromTimeStr": "16:36",
+                    "toTime": 70860,
                     "toTimeStr": "19:41",
                     "frequencyMinutes": 5
                   }
                 ]
               },
               {
-                "fromTerminal": "YELACHENAHALLI",
-                "toTerminal": "MADAVARA",
+                "fromTerminal": "Yelachenahalli",
+                "toTerminal": "Madvavara",
                 "timeSlots": [
                   {
                     "fromTime": 26400,
-                    "toTime": 39000,
                     "fromTimeStr": "07:20",
+                    "toTime": 39000,
                     "toTimeStr": "10:50",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 61080,
-                    "toTime": 73320,
                     "fromTimeStr": "16:58",
+                    "toTime": 73320,
                     "toTimeStr": "20:22",
                     "frequencyMinutes": 5
                   }
@@ -1140,164 +1635,164 @@
           "tuesday_to_friday": {
             "routes": [
               {
-                "fromTerminal": "MADAVARA",
-                "toTerminal": "SILK INSTITUTE",
+                "fromTerminal": "Madavara (BIEC)",
+                "toTerminal": "Silk Institute",
                 "timeSlots": [
                   {
                     "fromTime": 18000,
-                    "toTime": 22500,
                     "fromTimeStr": "05:00",
+                    "toTime": 22500,
                     "toTimeStr": "06:15",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 22500,
-                    "toTime": 37500,
                     "fromTimeStr": "06:15",
+                    "toTime": 37500,
                     "toTimeStr": "10:25",
                     "frequencyMinutes": 11
                   },
                   {
                     "fromTime": 37500,
-                    "toTime": 38340,
                     "fromTimeStr": "10:25",
+                    "toTime": 38340,
                     "toTimeStr": "10:39",
                     "frequencyMinutes": 7
                   },
                   {
                     "fromTime": 38340,
-                    "toTime": 57060,
                     "fromTimeStr": "10:39",
+                    "toTime": 57060,
                     "toTimeStr": "15:51",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 57060,
-                    "toTime": 71040,
                     "fromTimeStr": "15:51",
+                    "toTime": 71040,
                     "toTimeStr": "19:44",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 71040,
-                    "toTime": 73440,
                     "fromTimeStr": "19:44",
+                    "toTime": 73440,
                     "toTimeStr": "20:24",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 73440,
-                    "toTime": 79440,
                     "fromTimeStr": "20:24",
+                    "toTime": 79440,
                     "toTimeStr": "22:04",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 79440,
-                    "toTime": 81600,
                     "fromTimeStr": "22:04",
+                    "toTime": 81600,
                     "toTimeStr": "22:40",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 81600,
-                    "toTime": 82620,
                     "fromTimeStr": "22:40",
+                    "toTime": 82620,
                     "toTimeStr": "22:57",
                     "frequencyMinutes": 15
                   }
                 ]
               },
               {
-                "fromTerminal": "SILK INSTITUTE",
-                "toTerminal": "MADAVARA",
+                "fromTerminal": "Silk Institute",
+                "toTerminal": "Madavara (BIEC)",
                 "timeSlots": [
                   {
                     "fromTime": 18000,
-                    "toTime": 25200,
                     "fromTimeStr": "05:00",
+                    "toTime": 25200,
                     "toTimeStr": "07:00",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 25200,
-                    "toTime": 40140,
                     "fromTimeStr": "07:00",
+                    "toTime": 40140,
                     "toTimeStr": "11:09",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 40140,
-                    "toTime": 60480,
                     "fromTimeStr": "11:09",
+                    "toTime": 60480,
                     "toTimeStr": "16:48",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 60480,
-                    "toTime": 73740,
                     "fromTimeStr": "16:48",
+                    "toTime": 73740,
                     "toTimeStr": "20:29",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 73740,
-                    "toTime": 77400,
                     "fromTimeStr": "20:29",
+                    "toTime": 77400,
                     "toTimeStr": "21:30",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 77400,
-                    "toTime": 81600,
                     "fromTimeStr": "21:30",
+                    "toTime": 81600,
                     "toTimeStr": "22:40",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 81600,
-                    "toTime": 83100,
                     "fromTimeStr": "22:40",
+                    "toTime": 83100,
                     "toTimeStr": "23:05",
                     "frequencyMinutes": 12.5
                   }
                 ]
               },
               {
-                "fromTerminal": "NAGASANDRA / PEENYA INDUSTRY",
-                "toTerminal": "SILK INSTITUTE",
+                "fromTerminal": "Nagasandra",
+                "toTerminal": "Silk Institute",
                 "timeSlots": [
                   {
                     "fromTime": 23820,
-                    "toTime": 37320,
                     "fromTimeStr": "06:37",
+                    "toTime": 37320,
                     "toTimeStr": "10:22",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 59760,
-                    "toTime": 70860,
                     "fromTimeStr": "16:36",
+                    "toTime": 70860,
                     "toTimeStr": "19:41",
                     "frequencyMinutes": 5
                   }
                 ]
               },
               {
-                "fromTerminal": "YELACHENAHALLI",
-                "toTerminal": "MADAVARA",
+                "fromTerminal": "Yelachenahalli",
+                "toTerminal": "Madavara (BIEC)",
                 "timeSlots": [
                   {
                     "fromTime": 26400,
-                    "toTime": 39000,
                     "fromTimeStr": "07:20",
+                    "toTime": 39000,
                     "toTimeStr": "10:50",
                     "frequencyMinutes": 5
                   },
                   {
                     "fromTime": 61080,
-                    "toTime": 73320,
                     "fromTimeStr": "16:58",
+                    "toTime": 73320,
                     "toTimeStr": "20:22",
                     "frequencyMinutes": 5
                   }
@@ -1309,157 +1804,157 @@
           "saturday": {
             "routes": [
               {
-                "fromTerminal": "MADAVARA",
-                "toTerminal": "SILK INSTITUTE",
+                "fromTerminal": "Madavara (BIEC)",
+                "toTerminal": "Silk Institute",
                 "timeSlots": [
                   {
                     "fromTime": 18000,
-                    "toTime": 22500,
                     "fromTimeStr": "05:00",
+                    "toTime": 22500,
                     "toTimeStr": "06:15",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 22500,
-                    "toTime": 38340,
                     "fromTimeStr": "06:15",
+                    "toTime": 38340,
                     "toTimeStr": "10:39",
                     "frequencyMinutes": 11
                   },
                   {
                     "fromTime": 38340,
-                    "toTime": 57660,
                     "fromTimeStr": "10:39",
+                    "toTime": 57660,
                     "toTimeStr": "16:01",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 57660,
-                    "toTime": 58980,
                     "fromTimeStr": "16:01",
+                    "toTime": 58980,
                     "toTimeStr": "16:23",
                     "frequencyMinutes": 5.5
                   },
                   {
                     "fromTime": 58980,
-                    "toTime": 71520,
                     "fromTimeStr": "16:23",
+                    "toTime": 71520,
                     "toTimeStr": "19:52",
                     "frequencyMinutes": 11
                   },
                   {
                     "fromTime": 71520,
-                    "toTime": 73440,
                     "fromTimeStr": "19:52",
+                    "toTime": 73440,
                     "toTimeStr": "20:24",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 73440,
-                    "toTime": 79440,
                     "fromTimeStr": "20:24",
+                    "toTime": 79440,
                     "toTimeStr": "22:04",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 79440,
-                    "toTime": 82800,
                     "fromTimeStr": "22:04",
+                    "toTime": 82800,
                     "toTimeStr": "23:00",
                     "frequencyMinutes": 15
                   }
                 ]
               },
               {
-                "fromTerminal": "SILK INSTITUTE",
-                "toTerminal": "MADAVARA",
+                "fromTerminal": "Silk Institute",
+                "toTerminal": "Madavara (BIEC)",
                 "timeSlots": [
                   {
                     "fromTime": 18000,
-                    "toTime": 25200,
                     "fromTimeStr": "05:00",
+                    "toTime": 25200,
                     "toTimeStr": "07:00",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 25200,
-                    "toTime": 42780,
                     "fromTimeStr": "07:00",
+                    "toTime": 42780,
                     "toTimeStr": "11:53",
                     "frequencyMinutes": 11
                   },
                   {
                     "fromTime": 42780,
-                    "toTime": 60480,
                     "fromTimeStr": "11:53",
+                    "toTime": 60480,
                     "toTimeStr": "16:48",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 60480,
-                    "toTime": 75420,
                     "fromTimeStr": "16:48",
+                    "toTime": 75420,
                     "toTimeStr": "20:57",
                     "frequencyMinutes": 11
                   },
                   {
                     "fromTime": 75420,
-                    "toTime": 77400,
                     "fromTimeStr": "20:57",
+                    "toTime": 77400,
                     "toTimeStr": "21:30",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 77400,
-                    "toTime": 81600,
                     "fromTimeStr": "21:30",
+                    "toTime": 81600,
                     "toTimeStr": "22:40",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 81600,
-                    "toTime": 83100,
                     "fromTimeStr": "22:40",
+                    "toTime": 83100,
                     "toTimeStr": "23:05",
                     "frequencyMinutes": 12.5
                   }
                 ]
               },
               {
-                "fromTerminal": "NAGASANDRA / PEENYA INDUSTRY",
-                "toTerminal": "SILK INSTITUTE",
+                "fromTerminal": "Nagasandra",
+                "toTerminal": "Silk Institute",
                 "timeSlots": [
                   {
                     "fromTime": 23880,
-                    "toTime": 38400,
                     "fromTimeStr": "06:38",
+                    "toTime": 38400,
                     "toTimeStr": "10:40",
                     "frequencyMinutes": 5.5
                   },
                   {
                     "fromTime": 58380,
-                    "toTime": 71220,
                     "fromTimeStr": "16:13",
+                    "toTime": 71220,
                     "toTimeStr": "19:47",
                     "frequencyMinutes": 5.5
                   }
                 ]
               },
               {
-                "fromTerminal": "YELACHENAHALLI",
-                "toTerminal": "MADAVARA",
+                "fromTerminal": "Yelachenahalli",
+                "toTerminal": "Madavara (BIEC)",
                 "timeSlots": [
                   {
                     "fromTime": 26460,
-                    "toTime": 40980,
                     "fromTimeStr": "07:21",
+                    "toTime": 40980,
                     "toTimeStr": "11:23",
                     "frequencyMinutes": 5.5
                   },
                   {
                     "fromTime": 61080,
-                    "toTime": 74160,
                     "fromTimeStr": "16:58",
+                    "toTime": 74160,
                     "toTimeStr": "20:36",
                     "frequencyMinutes": 5.5
                   }
@@ -1471,82 +1966,82 @@
           "sunday": {
             "routes": [
               {
-                "fromTerminal": "MADAVARA",
-                "toTerminal": "SILK INSTITUTE",
+                "fromTerminal": "Madavara (BIEC)",
+                "toTerminal": "Silk Institute",
                 "timeSlots": [
                   {
                     "fromTime": 25200,
-                    "toTime": 38820,
                     "fromTimeStr": "07:00",
+                    "toTime": 38820,
                     "toTimeStr": "10:47",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 38820,
-                    "toTime": 72900,
                     "fromTimeStr": "10:47",
+                    "toTime": 72900,
                     "toTimeStr": "20:15",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 72900,
-                    "toTime": 79500,
                     "fromTimeStr": "20:15",
+                    "toTime": 79500,
                     "toTimeStr": "22:05",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 79500,
-                    "toTime": 80940,
                     "fromTimeStr": "22:05",
+                    "toTime": 80940,
                     "toTimeStr": "22:29",
                     "frequencyMinutes": 12
                   },
                   {
                     "fromTime": 80940,
-                    "toTime": 82800,
                     "fromTimeStr": "22:29",
+                    "toTime": 82800,
                     "toTimeStr": "23:00",
                     "frequencyMinutes": 15
                   }
                 ]
               },
               {
-                "fromTerminal": "SILK INSTITUTE",
-                "toTerminal": "MADAVARA",
+                "fromTerminal": "Silk Institute",
+                "toTerminal": "Madavara (BIEC)",
                 "timeSlots": [
                   {
                     "fromTime": 25200,
-                    "toTime": 28680,
                     "fromTimeStr": "07:00",
+                    "toTime": 28680,
                     "toTimeStr": "07:58",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 28680,
-                    "toTime": 43680,
                     "fromTimeStr": "07:58",
+                    "toTime": 43680,
                     "toTimeStr": "12:08",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 43680,
-                    "toTime": 78240,
                     "fromTimeStr": "12:08",
+                    "toTime": 78240,
                     "toTimeStr": "21:44",
                     "frequencyMinutes": 8
                   },
                   {
                     "fromTime": 78240,
-                    "toTime": 81840,
                     "fromTimeStr": "21:44",
+                    "toTime": 81840,
                     "toTimeStr": "22:44",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 81840,
-                    "toTime": 83100,
                     "fromTimeStr": "22:44",
+                    "toTime": 83100,
                     "toTimeStr": "23:05",
                     "frequencyMinutes": 12
                   }
@@ -1669,92 +2164,92 @@
                 "timeSlots": [
                   {
                     "fromTime": 18300,
-                    "toTime": 20100,
                     "fromTimeStr": "05:05",
+                    "toTime": 20100,
                     "toTimeStr": "05:35",
                     "frequencyMinutes": 30
                   },
                   {
                     "fromTime": 20100,
-                    "toTime": 21600,
                     "fromTimeStr": "05:35",
+                    "toTime": 21600,
                     "toTimeStr": "06:00",
                     "frequencyMinutes": 25
                   },
                   {
                     "fromTime": 21600,
-                    "toTime": 24000,
                     "fromTimeStr": "06:00",
+                    "toTime": 24000,
                     "toTimeStr": "06:40",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 24000,
-                    "toTime": 24960,
                     "fromTimeStr": "06:40",
+                    "toTime": 24960,
                     "toTimeStr": "06:56",
                     "frequencyMinutes": 16
                   },
                   {
                     "fromTime": 24960,
-                    "toTime": 38760,
                     "fromTimeStr": "06:56",
+                    "toTime": 38760,
                     "toTimeStr": "10:46",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 38760,
-                    "toTime": 39660,
                     "fromTimeStr": "10:46",
+                    "toTime": 39660,
                     "toTimeStr": "11:01",
                     "frequencyMinutes": 16
                   },
                   {
                     "fromTime": 39660,
-                    "toTime": 61260,
                     "fromTimeStr": "11:01",
+                    "toTime": 61260,
                     "toTimeStr": "17:01",
                     "frequencyMinutes": 18
                   },
                   {
                     "fromTime": 61260,
-                    "toTime": 78660,
                     "fromTimeStr": "17:01",
+                    "toTime": 78660,
                     "toTimeStr": "21:51",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 78660,
-                    "toTime": 79500,
                     "fromTimeStr": "21:51",
+                    "toTime": 79500,
                     "toTimeStr": "22:05",
                     "frequencyMinutes": 14
                   },
                   {
                     "fromTime": 79500,
-                    "toTime": 80400,
                     "fromTimeStr": "22:05",
+                    "toTime": 80400,
                     "toTimeStr": "22:20",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 80400,
-                    "toTime": 82800,
                     "fromTimeStr": "22:20",
+                    "toTime": 82800,
                     "toTimeStr": "23:00",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 82800,
-                    "toTime": 84300,
                     "fromTimeStr": "23:00",
+                    "toTime": 84300,
                     "toTimeStr": "23:25",
                     "frequencyMinutes": 25
                   },
                   {
                     "fromTime": 84300,
-                    "toTime": 86100,
                     "fromTimeStr": "23:25",
+                    "toTime": 86100,
                     "toTimeStr": "23:55",
                     "frequencyMinutes": 30
                   }
@@ -1766,64 +2261,64 @@
                 "timeSlots": [
                   {
                     "fromTime": 18300,
-                    "toTime": 20100,
                     "fromTimeStr": "05:05",
+                    "toTime": 20100,
                     "toTimeStr": "05:35",
                     "frequencyMinutes": 30
                   },
                   {
                     "fromTime": 20100,
-                    "toTime": 21600,
                     "fromTimeStr": "05:35",
+                    "toTime": 21600,
                     "toTimeStr": "06:00",
                     "frequencyMinutes": 25
                   },
                   {
                     "fromTime": 21600,
-                    "toTime": 24000,
                     "fromTimeStr": "06:00",
+                    "toTime": 24000,
                     "toTimeStr": "06:40",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 24000,
-                    "toTime": 36600,
                     "fromTimeStr": "06:40",
+                    "toTime": 36600,
                     "toTimeStr": "10:10",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 36600,
-                    "toTime": 37500,
                     "fromTimeStr": "10:10",
+                    "toTime": 37500,
                     "toTimeStr": "10:25",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 37500,
-                    "toTime": 59100,
                     "fromTimeStr": "10:25",
+                    "toTime": 59100,
                     "toTimeStr": "16:25",
                     "frequencyMinutes": 18
                   },
                   {
                     "fromTime": 59100,
-                    "toTime": 78900,
                     "fromTimeStr": "16:25",
+                    "toTime": 78900,
                     "toTimeStr": "21:55",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 78900,
-                    "toTime": 80700,
                     "fromTimeStr": "21:55",
+                    "toTime": 80700,
                     "toTimeStr": "22:25",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 80700,
-                    "toTime": 81720,
                     "fromTimeStr": "22:25",
+                    "toTime": 81720,
                     "toTimeStr": "22:42",
                     "frequencyMinutes": 17
                   }
@@ -1840,92 +2335,92 @@
                 "timeSlots": [
                   {
                     "fromTime": 21600,
-                    "toTime": 23100,
                     "fromTimeStr": "06:00",
+                    "toTime": 23100,
                     "toTimeStr": "06:25",
                     "frequencyMinutes": 25
                   },
                   {
                     "fromTime": 23100,
-                    "toTime": 24300,
                     "fromTimeStr": "06:25",
+                    "toTime": 24300,
                     "toTimeStr": "06:45",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 24300,
-                    "toTime": 25260,
                     "fromTimeStr": "06:45",
+                    "toTime": 25260,
                     "toTimeStr": "07:01",
                     "frequencyMinutes": 16
                   },
                   {
                     "fromTime": 25260,
-                    "toTime": 26160,
                     "fromTimeStr": "07:01",
+                    "toTime": 26160,
                     "toTimeStr": "07:16",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 26160,
-                    "toTime": 38760,
                     "fromTimeStr": "07:16",
+                    "toTime": 38760,
                     "toTimeStr": "10:46",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 38760,
-                    "toTime": 39660,
                     "fromTimeStr": "10:46",
+                    "toTime": 39660,
                     "toTimeStr": "11:01",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 39660,
-                    "toTime": 61260,
                     "fromTimeStr": "11:01",
+                    "toTime": 61260,
                     "toTimeStr": "17:01",
                     "frequencyMinutes": 18
                   },
                   {
                     "fromTime": 61260,
-                    "toTime": 78660,
                     "fromTimeStr": "17:01",
+                    "toTime": 78660,
                     "toTimeStr": "21:51",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 78660,
-                    "toTime": 79500,
                     "fromTimeStr": "21:51",
+                    "toTime": 79500,
                     "toTimeStr": "22:05",
                     "frequencyMinutes": 14
                   },
                   {
                     "fromTime": 79500,
-                    "toTime": 80400,
                     "fromTimeStr": "22:05",
+                    "toTime": 80400,
                     "toTimeStr": "22:20",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 80400,
-                    "toTime": 82800,
                     "fromTimeStr": "22:20",
+                    "toTime": 82800,
                     "toTimeStr": "23:00",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 82800,
-                    "toTime": 84300,
                     "fromTimeStr": "23:00",
+                    "toTime": 84300,
                     "toTimeStr": "23:25",
                     "frequencyMinutes": 25
                   },
                   {
                     "fromTime": 84300,
-                    "toTime": 86100,
                     "fromTimeStr": "23:25",
+                    "toTime": 86100,
                     "toTimeStr": "23:55",
                     "frequencyMinutes": 30
                   }
@@ -1937,50 +2432,50 @@
                 "timeSlots": [
                   {
                     "fromTime": 21600,
-                    "toTime": 24000,
                     "fromTimeStr": "06:00",
+                    "toTime": 24000,
                     "toTimeStr": "06:40",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 24000,
-                    "toTime": 36600,
                     "fromTimeStr": "06:40",
+                    "toTime": 36600,
                     "toTimeStr": "10:10",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 36600,
-                    "toTime": 37500,
                     "fromTimeStr": "10:10",
+                    "toTime": 37500,
                     "toTimeStr": "10:25",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 37500,
-                    "toTime": 59100,
                     "fromTimeStr": "10:25",
+                    "toTime": 59100,
                     "toTimeStr": "16:25",
                     "frequencyMinutes": 18
                   },
                   {
                     "fromTime": 59100,
-                    "toTime": 78900,
                     "fromTimeStr": "16:25",
+                    "toTime": 78900,
                     "toTimeStr": "21:55",
                     "frequencyMinutes": 10
                   },
                   {
                     "fromTime": 78900,
-                    "toTime": 80700,
                     "fromTimeStr": "21:55",
+                    "toTime": 80700,
                     "toTimeStr": "22:25",
                     "frequencyMinutes": 15
                   },
                   {
                     "fromTime": 80700,
-                    "toTime": 81720,
                     "fromTimeStr": "22:25",
+                    "toTime": 81720,
                     "toTimeStr": "22:42",
                     "frequencyMinutes": 17
                   }
@@ -1992,55 +2487,55 @@
           "sunday": {
             "routes": [
               {
-                "fromTerminal": "RV Road",
+                "fromTerminal": "R V Road",
                 "toTerminal": "Bommasandra",
                 "timeSlots": [
                   {
                     "fromTime": 25200,
-                    "toTime": 42480,
                     "fromTimeStr": "07:00",
+                    "toTime": 42480,
                     "toTimeStr": "11:48",
                     "frequencyMinutes": 18
                   },
                   {
                     "fromTime": 42480,
-                    "toTime": 76080,
                     "fromTimeStr": "11:48",
+                    "toTime": 76080,
                     "toTimeStr": "21:08",
                     "frequencyMinutes": 14
                   },
                   {
                     "fromTime": 76080,
-                    "toTime": 77160,
                     "fromTimeStr": "21:08",
+                    "toTime": 77160,
                     "toTimeStr": "21:26",
                     "frequencyMinutes": 18
                   },
                   {
                     "fromTime": 77160,
-                    "toTime": 78300,
                     "fromTimeStr": "21:26",
+                    "toTime": 78300,
                     "toTimeStr": "21:45",
                     "frequencyMinutes": 19
                   },
                   {
                     "fromTime": 78300,
-                    "toTime": 81900,
                     "fromTimeStr": "21:45",
+                    "toTime": 81900,
                     "toTimeStr": "22:45",
                     "frequencyMinutes": 20
                   },
                   {
                     "fromTime": 81900,
-                    "toTime": 84900,
                     "fromTimeStr": "22:45",
+                    "toTime": 84900,
                     "toTimeStr": "23:35",
                     "frequencyMinutes": 25
                   },
                   {
                     "fromTime": 84900,
-                    "toTime": 86100,
                     "fromTimeStr": "23:35",
+                    "toTime": 86100,
                     "toTimeStr": "23:55",
                     "frequencyMinutes": 20
                   }
@@ -2048,28 +2543,185 @@
               },
               {
                 "fromTerminal": "Bommasandra",
-                "toTerminal": "RV Road",
+                "toTerminal": "R V Road",
                 "timeSlots": [
                   {
                     "fromTime": 25200,
-                    "toTime": 40920,
                     "fromTimeStr": "07:00",
+                    "toTime": 40920,
                     "toTimeStr": "11:22",
                     "frequencyMinutes": 18
                   },
                   {
                     "fromTime": 40320,
-                    "toTime": 80640,
                     "fromTimeStr": "11:12",
+                    "toTime": 80640,
                     "toTimeStr": "22:24",
                     "frequencyMinutes": 14
                   },
                   {
                     "fromTime": 80640,
-                    "toTime": 81720,
                     "fromTimeStr": "22:24",
+                    "toTime": 81720,
                     "toTimeStr": "22:42",
                     "frequencyMinutes": 18
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          },
+          "tuesday_to_friday": {
+            "routes": [
+              {
+                "fromTerminal": "R V Road",
+                "toTerminal": "Bommasandra",
+                "timeSlots": [
+                  {
+                    "fromTime": 21600,
+                    "fromTimeStr": "06:00",
+                    "toTime": 23100,
+                    "toTimeStr": "06:25",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 23100,
+                    "fromTimeStr": "06:25",
+                    "toTime": 24300,
+                    "toTimeStr": "06:45",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 24300,
+                    "fromTimeStr": "06:45",
+                    "toTime": 25260,
+                    "toTimeStr": "07:01",
+                    "frequencyMinutes": 16
+                  },
+                  {
+                    "fromTime": 25260,
+                    "fromTimeStr": "07:01",
+                    "toTime": 26160,
+                    "toTimeStr": "07:16",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 26160,
+                    "fromTimeStr": "07:16",
+                    "toTime": 38760,
+                    "toTimeStr": "10:46",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 38760,
+                    "fromTimeStr": "10:46",
+                    "toTime": 39660,
+                    "toTimeStr": "11:01",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 39660,
+                    "fromTimeStr": "11:01",
+                    "toTime": 61260,
+                    "toTimeStr": "17:01",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 61260,
+                    "fromTimeStr": "17:01",
+                    "toTime": 78660,
+                    "toTimeStr": "21:51",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 78660,
+                    "fromTimeStr": "21:51",
+                    "toTime": 79500,
+                    "toTimeStr": "22:05",
+                    "frequencyMinutes": 14
+                  },
+                  {
+                    "fromTime": 79500,
+                    "fromTimeStr": "22:05",
+                    "toTime": 80400,
+                    "toTimeStr": "22:20",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 80400,
+                    "fromTimeStr": "22:20",
+                    "toTime": 82800,
+                    "toTimeStr": "23:00",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 82800,
+                    "fromTimeStr": "23:00",
+                    "toTime": 84300,
+                    "toTimeStr": "23:25",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 84300,
+                    "fromTimeStr": "23:25",
+                    "toTime": 86100,
+                    "toTimeStr": "23:55",
+                    "frequencyMinutes": 30
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Bommasandra",
+                "toTerminal": "R V Road",
+                "timeSlots": [
+                  {
+                    "fromTime": 21600,
+                    "fromTimeStr": "06:00",
+                    "toTime": 24000,
+                    "toTimeStr": "06:40",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 24000,
+                    "fromTimeStr": "06:40",
+                    "toTime": 36600,
+                    "toTimeStr": "10:10",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 36600,
+                    "fromTimeStr": "10:10",
+                    "toTime": 37500,
+                    "toTimeStr": "10:25",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 37500,
+                    "fromTimeStr": "10:25",
+                    "toTime": 59100,
+                    "toTimeStr": "16:25",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 59100,
+                    "fromTimeStr": "16:25",
+                    "toTime": 78900,
+                    "toTimeStr": "21:55",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 78900,
+                    "fromTimeStr": "21:55",
+                    "toTime": 80700,
+                    "toTimeStr": "22:25",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 80700,
+                    "fromTimeStr": "22:25",
+                    "toTime": 81720,
+                    "toTimeStr": "22:42",
+                    "frequencyMinutes": 17
                   }
                 ]
               }
