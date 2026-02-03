@@ -1,8 +1,8 @@
 {
+  "_comment": "Update Logic Guide: 1. SOFT UPDATE: Set 'latestVersionCode' > app version (2). 'minVersionCode' <= app version. updateType='soft'. User can dismiss. 2. FORCE UPDATE: Set 'minVersionCode' > app version (2). updateType='force'. User LOCKED out until update.",
   "latestVersionCode": 2,
   "minVersionCode": 1,
   "updateType": "soft",
-  "iosStoreUrl": "https://apps.apple.com/app/namma-metro-sahaya/id123456789",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.sira.nammametrosahaya",
   "forceUpdateMessage": "A critical update is available. Please update to continue using the app.",
   "updateMessage": "A new version of Namma Metro Sahaya is available with improved features."
