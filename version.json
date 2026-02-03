@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 2,
+  "minVersionCode": 1,
+  "updateType": "soft",
+  "iosStoreUrl": "https://apps.apple.com/app/namma-metro-sahaya/id123456789",
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.sira.nammametrosahaya",
+  "forceUpdateMessage": "A critical update is available. Please update to continue using the app.",
+  "updateMessage": "A new version of Namma Metro Sahaya is available with improved features."
+}

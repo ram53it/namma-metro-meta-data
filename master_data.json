@@ -1,0 +1,2604 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-02-03T10:08:07.404Z",
+  "schedules": {
+    "version": 1770011872421,
+    "generatedAt": "2026-02-02T05:57:52.421Z",
+    "lines": {
+      "purple": {
+        "id": "purple",
+        "name": "Purple Line",
+        "color": "#6A1B9A",
+        "terminals": {
+          "up": "Whitefield (Kadugodi)",
+          "down": "Challaghatta"
+        },
+        "stations": [
+          "Whitefield (Kadugodi)",
+          "Hopefarm Channasandra",
+          "Kadugodi Tree Park",
+          "Pattandur Agrahara",
+          "Sri Sathya Sai Hospital",
+          "Nallurhalli",
+          "Kundalahalli",
+          "Seetharamapalya",
+          "Hoodi",
+          "Garudacharpalya",
+          "Singayyanapalya",
+          "Krishnarajapura (K.R. Pura)",
+          "Benniganahalli",
+          "Baiyappanahalli",
+          "Swami Vivekananda Road",
+          "Indiranagar",
+          "Halasuru",
+          "Trinity",
+          "MG Road",
+          "Cubbon Park",
+          "Dr. B.R. Ambedkar (Vidhana Soudha)",
+          "Sir M. Visveswaraya (Central College)",
+          "Nadaprabhu Kempegowda (Majestic)",
+          "KSR City Railway Station",
+          "Magadi Road",
+          "Hosahalli",
+          "Vijayanagar",
+          "Attiguppe",
+          "Deepanjali Nagar",
+          "Mysuru Road",
+          "Pantharapalya (Nayandahalli)",
+          "Rajarajeshwari Nagar",
+          "Jnanabharathi",
+          "Pattanagere",
+          "Kengeri Bus Terminal",
+          "Kengeri",
+          "Challaghatta"
+        ],
+        "travelTimes": [
+          {
+            "station1": "Whitefield (Kadugodi)",
+            "station2": "Hopefarm Channasandra",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Hopefarm Channasandra",
+            "station2": "Kadugodi Tree Park",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Kadugodi Tree Park",
+            "station2": "Pattandur Agrahara",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Pattandur Agrahara",
+            "station2": "Sri Sathya Sai Hospital",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Sri Sathya Sai Hospital",
+            "station2": "Nallurhalli",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Nallurhalli",
+            "station2": "Kundalahalli",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Kundalahalli",
+            "station2": "Seetharamapalya",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Seetharamapalya",
+            "station2": "Hoodi",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Hoodi",
+            "station2": "Garudacharpalya",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Garudacharpalya",
+            "station2": "Singayyanapalya",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Singayyanapalya",
+            "station2": "Krishnarajapura (K.R. Pura)",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Krishnarajapura (K.R. Pura)",
+            "station2": "Benniganahalli",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Benniganahalli",
+            "station2": "Baiyappanahalli",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Baiyappanahalli",
+            "station2": "Swami Vivekananda Road",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Swami Vivekananda Road",
+            "station2": "Indiranagar",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Indiranagar",
+            "station2": "Halasuru",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Halasuru",
+            "station2": "Trinity",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Trinity",
+            "station2": "MG Road",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "MG Road",
+            "station2": "Cubbon Park",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Cubbon Park",
+            "station2": "Dr. B.R. Ambedkar (Vidhana Soudha)",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Dr. B.R. Ambedkar (Vidhana Soudha)",
+            "station2": "Sir M. Visveswaraya (Central College)",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Sir M. Visveswaraya (Central College)",
+            "station2": "Nadaprabhu Kempegowda (Majestic)",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Nadaprabhu Kempegowda (Majestic)",
+            "station2": "KSR City Railway Station",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "KSR City Railway Station",
+            "station2": "Magadi Road",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Magadi Road",
+            "station2": "Hosahalli",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Hosahalli",
+            "station2": "Vijayanagar",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Vijayanagar",
+            "station2": "Attiguppe",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Attiguppe",
+            "station2": "Deepanjali Nagar",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Deepanjali Nagar",
+            "station2": "Mysuru Road",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Mysuru Road",
+            "station2": "Pantharapalya (Nayandahalli)",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Pantharapalya (Nayandahalli)",
+            "station2": "Rajarajeshwari Nagar",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Rajarajeshwari Nagar",
+            "station2": "Jnanabharathi",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Jnanabharathi",
+            "station2": "Pattanagere",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Pattanagere",
+            "station2": "Kengeri Bus Terminal",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Kengeri Bus Terminal",
+            "station2": "Kengeri",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Kengeri",
+            "station2": "Challaghatta",
+            "travelTimeMinutes": 3
+          }
+        ],
+        "schedules": {
+          "monday": {
+            "routes": [
+              {
+                "fromTerminal": "WHITEFIELD",
+                "toTerminal": "CHALLAGHATTA",
+                "timeSlots": [
+                  {
+                    "fromTime": 15300,
+                    "toTime": 16500,
+                    "fromTimeStr": "04:15",
+                    "toTimeStr": "04:35",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 16500,
+                    "toTime": 18000,
+                    "fromTimeStr": "04:35",
+                    "toTimeStr": "05:00",
+                    "frequencyMinutes": 13
+                  },
+                  {
+                    "fromTime": 18000,
+                    "toTime": 39420,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "10:57",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 39420,
+                    "toTime": 55260,
+                    "fromTimeStr": "10:57",
+                    "toTimeStr": "15:21",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 55260,
+                    "toTime": 79260,
+                    "fromTimeStr": "15:21",
+                    "toTimeStr": "22:01",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 79260,
+                    "toTime": 81900,
+                    "fromTimeStr": "22:01",
+                    "toTimeStr": "22:45",
+                    "frequencyMinutes": 15
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "GARUDACHAR PALYA",
+                "toTerminal": "CHALLAGHATTA",
+                "timeSlots": [
+                  {
+                    "fromTime": 24780,
+                    "toTime": 39300,
+                    "fromTimeStr": "06:53",
+                    "toTimeStr": "10:55",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 58200,
+                    "toTime": 72600,
+                    "fromTimeStr": "16:10",
+                    "toTimeStr": "20:10",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "CHALLAGHATTA",
+                "toTerminal": "Whitefield",
+                "timeSlots": [
+                  {
+                    "fromTime": 15300,
+                    "toTime": 16500,
+                    "fromTimeStr": "04:15",
+                    "toTimeStr": "04:35",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 16500,
+                    "toTime": 18900,
+                    "fromTimeStr": "04:35",
+                    "toTimeStr": "05:15",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 18900,
+                    "toTime": 24840,
+                    "fromTimeStr": "05:15",
+                    "toTimeStr": "06:54",
+                    "frequencyMinutes": 11
+                  },
+                  {
+                    "fromTime": 24840,
+                    "toTime": 44400,
+                    "fromTimeStr": "06:54",
+                    "toTimeStr": "12:20",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 44400,
+                    "toTime": 60300,
+                    "fromTimeStr": "12:20",
+                    "toTimeStr": "16:45",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 60300,
+                    "toTime": 83100,
+                    "fromTimeStr": "16:45",
+                    "toTimeStr": "23:05",
+                    "frequencyMinutes": 10
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "MYSORE ROAD",
+                "toTerminal": "Whitefield",
+                "timeSlots": [
+                  {
+                    "fromTime": 26520,
+                    "toTime": 37200,
+                    "fromTimeStr": "07:22",
+                    "toTimeStr": "10:20",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 60780,
+                    "toTime": 75720,
+                    "fromTimeStr": "16:53",
+                    "toTimeStr": "21:02",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Kempegowda",
+                "toTerminal": "Whitefield",
+                "timeSlots": [
+                  {
+                    "fromTime": 26520,
+                    "toTime": 37200,
+                    "fromTimeStr": "07:22",
+                    "toTimeStr": "10:20",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          },
+          "tuesday_to_friday": {
+            "routes": [
+              {
+                "fromTerminal": "WHITEFIELD",
+                "toTerminal": "CHALLAGHATTA",
+                "timeSlots": [
+                  {
+                    "fromTime": 18000,
+                    "toTime": 19200,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "05:20",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 19200,
+                    "toTime": 39420,
+                    "fromTimeStr": "05:20",
+                    "toTimeStr": "10:57",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 39420,
+                    "toTime": 55260,
+                    "fromTimeStr": "10:57",
+                    "toTimeStr": "15:21",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 55260,
+                    "toTime": 79260,
+                    "fromTimeStr": "15:21",
+                    "toTimeStr": "22:01",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 79260,
+                    "toTime": 81900,
+                    "fromTimeStr": "22:01",
+                    "toTimeStr": "22:45",
+                    "frequencyMinutes": 15
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "CHALLAGHATTA",
+                "toTerminal": "WHITEFIELD",
+                "timeSlots": [
+                  {
+                    "fromTime": 18000,
+                    "toTime": 19200,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "05:20",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 19200,
+                    "toTime": 21600,
+                    "fromTimeStr": "05:20",
+                    "toTimeStr": "06:00",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 21600,
+                    "toTime": 24840,
+                    "fromTimeStr": "06:00",
+                    "toTimeStr": "06:54",
+                    "frequencyMinutes": 11
+                  },
+                  {
+                    "fromTime": 24840,
+                    "toTime": 44400,
+                    "fromTimeStr": "06:54",
+                    "toTimeStr": "12:20",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 44400,
+                    "toTime": 57720,
+                    "fromTimeStr": "12:20",
+                    "toTimeStr": "16:02",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 57720,
+                    "toTime": 83100,
+                    "fromTimeStr": "16:02",
+                    "toTimeStr": "23:05",
+                    "frequencyMinutes": 10
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "GARUDACHAR PALYA",
+                "toTerminal": "CHALLAGHATTA",
+                "timeSlots": [
+                  {
+                    "fromTime": 24780,
+                    "toTime": 39300,
+                    "fromTimeStr": "06:53",
+                    "toTimeStr": "10:55",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 58200,
+                    "toTime": 72600,
+                    "fromTimeStr": "16:10",
+                    "toTimeStr": "20:10",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "MYSORE ROAD",
+                "toTerminal": "Whitefield",
+                "timeSlots": [
+                  {
+                    "fromTime": 26520,
+                    "toTime": 37200,
+                    "fromTimeStr": "07:22",
+                    "toTimeStr": "10:20",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 60780,
+                    "toTime": 75720,
+                    "fromTimeStr": "16:53",
+                    "toTimeStr": "21:02",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Kempegowda",
+                "toTerminal": "Whitefield",
+                "timeSlots": []
+              },
+              {
+                "fromTerminal": "Mysore road",
+                "toTerminal": "Garudachar palya",
+                "timeSlots": []
+              },
+              {
+                "fromTerminal": "Pattandur Agrahara",
+                "toTerminal": "Mysore road",
+                "timeSlots": []
+              }
+            ],
+            "shortLoops": []
+          },
+          "saturday": {
+            "routes": [
+              {
+                "fromTerminal": "WHITEFIELD",
+                "toTerminal": "CHALLAGHATTA",
+                "timeSlots": [
+                  {
+                    "fromTime": 18000,
+                    "toTime": 19200,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "05:20",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 19200,
+                    "toTime": 39420,
+                    "fromTimeStr": "05:20",
+                    "toTimeStr": "10:57",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 39420,
+                    "toTime": 55260,
+                    "fromTimeStr": "10:57",
+                    "toTimeStr": "15:21",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 55260,
+                    "toTime": 79260,
+                    "fromTimeStr": "15:21",
+                    "toTimeStr": "22:01",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 79260,
+                    "toTime": 81900,
+                    "fromTimeStr": "22:01",
+                    "toTimeStr": "22:45",
+                    "frequencyMinutes": 15
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "CHALLAGHATTA",
+                "toTerminal": "WHITEFIELD",
+                "timeSlots": [
+                  {
+                    "fromTime": 18000,
+                    "toTime": 19200,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "05:20",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 19200,
+                    "toTime": 21600,
+                    "fromTimeStr": "05:20",
+                    "toTimeStr": "06:00",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 21600,
+                    "toTime": 24840,
+                    "fromTimeStr": "06:00",
+                    "toTimeStr": "06:54",
+                    "frequencyMinutes": 11
+                  },
+                  {
+                    "fromTime": 24840,
+                    "toTime": 44400,
+                    "fromTimeStr": "06:54",
+                    "toTimeStr": "12:20",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 44400,
+                    "toTime": 60300,
+                    "fromTimeStr": "12:20",
+                    "toTimeStr": "16:45",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 60300,
+                    "toTime": 83100,
+                    "fromTimeStr": "16:45",
+                    "toTimeStr": "23:05",
+                    "frequencyMinutes": 10
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "GARUDACHAR PALYA",
+                "toTerminal": "CHALLAGHATTA",
+                "timeSlots": [
+                  {
+                    "fromTime": 24780,
+                    "toTime": 39300,
+                    "fromTimeStr": "06:53",
+                    "toTimeStr": "10:55",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 58200,
+                    "toTime": 72600,
+                    "fromTimeStr": "16:10",
+                    "toTimeStr": "20:10",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 65400,
+                    "toTime": 72600,
+                    "fromTimeStr": "18:10",
+                    "toTimeStr": "20:10",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "MYSORE ROAD",
+                "toTerminal": "Whitefield",
+                "timeSlots": [
+                  {
+                    "fromTime": 26520,
+                    "toTime": 37200,
+                    "fromTimeStr": "07:22",
+                    "toTimeStr": "10:20",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 61320,
+                    "toTime": 75720,
+                    "fromTimeStr": "17:02",
+                    "toTimeStr": "21:02",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          },
+          "sunday": {
+            "routes": [
+              {
+                "fromTerminal": "WHITEFIELD",
+                "toTerminal": "CHALLAGHATTA",
+                "timeSlots": [
+                  {
+                    "fromTime": 25200,
+                    "toTime": 37980,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "10:33",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 37980,
+                    "toTime": 72060,
+                    "fromTimeStr": "10:33",
+                    "toTimeStr": "20:01",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 72060,
+                    "toTime": 81060,
+                    "fromTimeStr": "20:01",
+                    "toTimeStr": "22:31",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 81060,
+                    "toTime": 81900,
+                    "fromTimeStr": "22:31",
+                    "toTimeStr": "22:45",
+                    "frequencyMinutes": 14
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "CHALLAGHATTA",
+                "toTerminal": "WHITEFIELD",
+                "timeSlots": [
+                  {
+                    "fromTime": 25200,
+                    "toTime": 28200,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "07:50",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 28200,
+                    "toTime": 43200,
+                    "fromTimeStr": "07:50",
+                    "toTimeStr": "12:00",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 43200,
+                    "toTime": 77280,
+                    "fromTimeStr": "12:00",
+                    "toTimeStr": "21:28",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 77280,
+                    "toTime": 83100,
+                    "fromTimeStr": "21:28",
+                    "toTimeStr": "23:05",
+                    "frequencyMinutes": 10
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          }
+        }
+      },
+      "green": {
+        "id": "green",
+        "name": "Green Line",
+        "color": "#43A047",
+        "terminals": {
+          "up": "Madavara (BIEC)",
+          "down": "Silk Institute"
+        },
+        "stations": [
+          "Madavara (BIEC)",
+          "Chikkabidarakallu",
+          "Manjunathnagar",
+          "Nagasandra",
+          "Dasarahalli",
+          "Jalahalli",
+          "Peenya Industry",
+          "Peenya",
+          "Goraguntepalya",
+          "Yeshwanthpur",
+          "Sandal Soap Factory",
+          "Mahalakshmi",
+          "Rajajinagar",
+          "Mahakavi Kuvempu Road",
+          "Srirampura",
+          "Mantri Square Sampige Road",
+          "Nadaprabhu Kempegowda (Majestic)",
+          "Chickpete",
+          "Krishna Rajendra Market",
+          "National College",
+          "Lalbagh",
+          "South End Circle",
+          "Jayanagar",
+          "Rashtreeya Vidyalaya Road",
+          "Banashankari",
+          "Jaya Prakash Nagar",
+          "Yelachenahalli",
+          "Konanakunte Cross",
+          "Doddakallasandra",
+          "Vajarahalli",
+          "Thalaghattapura",
+          "Silk Institute"
+        ],
+        "travelTimes": [
+          {
+            "station1": "Madavara (BIEC)",
+            "station2": "Chikkabidarakallu",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Chikkabidarakallu",
+            "station2": "Manjunathnagar",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Manjunathnagar",
+            "station2": "Nagasandra",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Nagasandra",
+            "station2": "Dasarahalli",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Dasarahalli",
+            "station2": "Jalahalli",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Jalahalli",
+            "station2": "Peenya Industry",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Peenya Industry",
+            "station2": "Peenya",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Peenya",
+            "station2": "Goraguntepalya",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Goraguntepalya",
+            "station2": "Yeshwanthpur",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Yeshwanthpur",
+            "station2": "Sandal Soap Factory",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Sandal Soap Factory",
+            "station2": "Mahalakshmi",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Mahalakshmi",
+            "station2": "Rajajinagar",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Rajajinagar",
+            "station2": "Mahakavi Kuvempu Road",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Mahakavi Kuvempu Road",
+            "station2": "Srirampura",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Srirampura",
+            "station2": "Mantri Square Sampige Road",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Mantri Square Sampige Road",
+            "station2": "Nadaprabhu Kempegowda (Majestic)",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Nadaprabhu Kempegowda (Majestic)",
+            "station2": "Chickpete",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Chickpete",
+            "station2": "Krishna Rajendra Market",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Krishna Rajendra Market",
+            "station2": "National College",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "National College",
+            "station2": "Lalbagh",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Lalbagh",
+            "station2": "South End Circle",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "South End Circle",
+            "station2": "Jayanagar",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Jayanagar",
+            "station2": "Rashtreeya Vidyalaya Road",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Rashtreeya Vidyalaya Road",
+            "station2": "Banashankari",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Banashankari",
+            "station2": "Jaya Prakash Nagar",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Jaya Prakash Nagar",
+            "station2": "Yelachenahalli",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Yelachenahalli",
+            "station2": "Konanakunte Cross",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Konanakunte Cross",
+            "station2": "Doddakallasandra",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Doddakallasandra",
+            "station2": "Vajarahalli",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Vajarahalli",
+            "station2": "Thalaghattapura",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Thalaghattapura",
+            "station2": "Silk Institute",
+            "travelTimeMinutes": 3
+          }
+        ],
+        "schedules": {
+          "monday": {
+            "routes": [
+              {
+                "fromTerminal": "MADAVARA",
+                "toTerminal": "SILK INSTITUTE",
+                "timeSlots": [
+                  {
+                    "fromTime": 15300,
+                    "toTime": 16800,
+                    "fromTimeStr": "04:15",
+                    "toTimeStr": "04:40",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 18000,
+                    "toTime": 22500,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "06:15",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 22500,
+                    "toTime": 37500,
+                    "fromTimeStr": "06:15",
+                    "toTimeStr": "10:25",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 37500,
+                    "toTime": 38340,
+                    "fromTimeStr": "10:25",
+                    "toTimeStr": "10:39",
+                    "frequencyMinutes": 7
+                  },
+                  {
+                    "fromTime": 38340,
+                    "toTime": 57060,
+                    "fromTimeStr": "10:39",
+                    "toTimeStr": "15:51",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 57060,
+                    "toTime": 71040,
+                    "fromTimeStr": "15:51",
+                    "toTimeStr": "19:44",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 71040,
+                    "toTime": 73440,
+                    "fromTimeStr": "19:44",
+                    "toTimeStr": "20:24",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 73440,
+                    "toTime": 79440,
+                    "fromTimeStr": "20:24",
+                    "toTimeStr": "22:04",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 79440,
+                    "toTime": 81600,
+                    "fromTimeStr": "22:04",
+                    "toTimeStr": "22:40",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 81600,
+                    "toTime": 82620,
+                    "fromTimeStr": "22:40",
+                    "toTimeStr": "22:57",
+                    "frequencyMinutes": 15
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "SILK INSTITUTE",
+                "toTerminal": "MADAVARA",
+                "timeSlots": [
+                  {
+                    "fromTime": 15300,
+                    "toTime": 18000,
+                    "fromTimeStr": "04:15",
+                    "toTimeStr": "05:00",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 18000,
+                    "toTime": 25200,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "07:00",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 25200,
+                    "toTime": 40140,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "11:09",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 40140,
+                    "toTime": 60480,
+                    "fromTimeStr": "11:09",
+                    "toTimeStr": "16:48",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 60480,
+                    "toTime": 73740,
+                    "fromTimeStr": "16:48",
+                    "toTimeStr": "20:29",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 73740,
+                    "toTime": 77400,
+                    "fromTimeStr": "20:29",
+                    "toTimeStr": "21:30",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 77400,
+                    "toTime": 81600,
+                    "fromTimeStr": "21:30",
+                    "toTimeStr": "22:40",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 81600,
+                    "toTime": 83100,
+                    "fromTimeStr": "22:40",
+                    "toTimeStr": "23:05",
+                    "frequencyMinutes": 12.5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "NAGASANDRA / PEENYA INDUSTRY",
+                "toTerminal": "SILK INSTITUTE",
+                "timeSlots": [
+                  {
+                    "fromTime": 23820,
+                    "toTime": 37320,
+                    "fromTimeStr": "06:37",
+                    "toTimeStr": "10:22",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 59760,
+                    "toTime": 70860,
+                    "fromTimeStr": "16:36",
+                    "toTimeStr": "19:41",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "YELACHENAHALLI",
+                "toTerminal": "MADAVARA",
+                "timeSlots": [
+                  {
+                    "fromTime": 26400,
+                    "toTime": 39000,
+                    "fromTimeStr": "07:20",
+                    "toTimeStr": "10:50",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 61080,
+                    "toTime": 73320,
+                    "fromTimeStr": "16:58",
+                    "toTimeStr": "20:22",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          },
+          "tuesday_to_friday": {
+            "routes": [
+              {
+                "fromTerminal": "MADAVARA",
+                "toTerminal": "SILK INSTITUTE",
+                "timeSlots": [
+                  {
+                    "fromTime": 18000,
+                    "toTime": 22500,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "06:15",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 22500,
+                    "toTime": 37500,
+                    "fromTimeStr": "06:15",
+                    "toTimeStr": "10:25",
+                    "frequencyMinutes": 11
+                  },
+                  {
+                    "fromTime": 37500,
+                    "toTime": 38340,
+                    "fromTimeStr": "10:25",
+                    "toTimeStr": "10:39",
+                    "frequencyMinutes": 7
+                  },
+                  {
+                    "fromTime": 38340,
+                    "toTime": 57060,
+                    "fromTimeStr": "10:39",
+                    "toTimeStr": "15:51",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 57060,
+                    "toTime": 71040,
+                    "fromTimeStr": "15:51",
+                    "toTimeStr": "19:44",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 71040,
+                    "toTime": 73440,
+                    "fromTimeStr": "19:44",
+                    "toTimeStr": "20:24",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 73440,
+                    "toTime": 79440,
+                    "fromTimeStr": "20:24",
+                    "toTimeStr": "22:04",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 79440,
+                    "toTime": 81600,
+                    "fromTimeStr": "22:04",
+                    "toTimeStr": "22:40",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 81600,
+                    "toTime": 82620,
+                    "fromTimeStr": "22:40",
+                    "toTimeStr": "22:57",
+                    "frequencyMinutes": 15
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "SILK INSTITUTE",
+                "toTerminal": "MADAVARA",
+                "timeSlots": [
+                  {
+                    "fromTime": 18000,
+                    "toTime": 25200,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "07:00",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 25200,
+                    "toTime": 40140,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "11:09",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 40140,
+                    "toTime": 60480,
+                    "fromTimeStr": "11:09",
+                    "toTimeStr": "16:48",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 60480,
+                    "toTime": 73740,
+                    "fromTimeStr": "16:48",
+                    "toTimeStr": "20:29",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 73740,
+                    "toTime": 77400,
+                    "fromTimeStr": "20:29",
+                    "toTimeStr": "21:30",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 77400,
+                    "toTime": 81600,
+                    "fromTimeStr": "21:30",
+                    "toTimeStr": "22:40",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 81600,
+                    "toTime": 83100,
+                    "fromTimeStr": "22:40",
+                    "toTimeStr": "23:05",
+                    "frequencyMinutes": 12.5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "NAGASANDRA / PEENYA INDUSTRY",
+                "toTerminal": "SILK INSTITUTE",
+                "timeSlots": [
+                  {
+                    "fromTime": 23820,
+                    "toTime": 37320,
+                    "fromTimeStr": "06:37",
+                    "toTimeStr": "10:22",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 59760,
+                    "toTime": 70860,
+                    "fromTimeStr": "16:36",
+                    "toTimeStr": "19:41",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "YELACHENAHALLI",
+                "toTerminal": "MADAVARA",
+                "timeSlots": [
+                  {
+                    "fromTime": 26400,
+                    "toTime": 39000,
+                    "fromTimeStr": "07:20",
+                    "toTimeStr": "10:50",
+                    "frequencyMinutes": 5
+                  },
+                  {
+                    "fromTime": 61080,
+                    "toTime": 73320,
+                    "fromTimeStr": "16:58",
+                    "toTimeStr": "20:22",
+                    "frequencyMinutes": 5
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          },
+          "saturday": {
+            "routes": [
+              {
+                "fromTerminal": "MADAVARA",
+                "toTerminal": "SILK INSTITUTE",
+                "timeSlots": [
+                  {
+                    "fromTime": 18000,
+                    "toTime": 22500,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "06:15",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 22500,
+                    "toTime": 38340,
+                    "fromTimeStr": "06:15",
+                    "toTimeStr": "10:39",
+                    "frequencyMinutes": 11
+                  },
+                  {
+                    "fromTime": 38340,
+                    "toTime": 57660,
+                    "fromTimeStr": "10:39",
+                    "toTimeStr": "16:01",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 57660,
+                    "toTime": 58980,
+                    "fromTimeStr": "16:01",
+                    "toTimeStr": "16:23",
+                    "frequencyMinutes": 5.5
+                  },
+                  {
+                    "fromTime": 58980,
+                    "toTime": 71520,
+                    "fromTimeStr": "16:23",
+                    "toTimeStr": "19:52",
+                    "frequencyMinutes": 11
+                  },
+                  {
+                    "fromTime": 71520,
+                    "toTime": 73440,
+                    "fromTimeStr": "19:52",
+                    "toTimeStr": "20:24",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 73440,
+                    "toTime": 79440,
+                    "fromTimeStr": "20:24",
+                    "toTimeStr": "22:04",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 79440,
+                    "toTime": 82800,
+                    "fromTimeStr": "22:04",
+                    "toTimeStr": "23:00",
+                    "frequencyMinutes": 15
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "SILK INSTITUTE",
+                "toTerminal": "MADAVARA",
+                "timeSlots": [
+                  {
+                    "fromTime": 18000,
+                    "toTime": 25200,
+                    "fromTimeStr": "05:00",
+                    "toTimeStr": "07:00",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 25200,
+                    "toTime": 42780,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "11:53",
+                    "frequencyMinutes": 11
+                  },
+                  {
+                    "fromTime": 42780,
+                    "toTime": 60480,
+                    "fromTimeStr": "11:53",
+                    "toTimeStr": "16:48",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 60480,
+                    "toTime": 75420,
+                    "fromTimeStr": "16:48",
+                    "toTimeStr": "20:57",
+                    "frequencyMinutes": 11
+                  },
+                  {
+                    "fromTime": 75420,
+                    "toTime": 77400,
+                    "fromTimeStr": "20:57",
+                    "toTimeStr": "21:30",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 77400,
+                    "toTime": 81600,
+                    "fromTimeStr": "21:30",
+                    "toTimeStr": "22:40",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 81600,
+                    "toTime": 83100,
+                    "fromTimeStr": "22:40",
+                    "toTimeStr": "23:05",
+                    "frequencyMinutes": 12.5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "NAGASANDRA / PEENYA INDUSTRY",
+                "toTerminal": "SILK INSTITUTE",
+                "timeSlots": [
+                  {
+                    "fromTime": 23880,
+                    "toTime": 38400,
+                    "fromTimeStr": "06:38",
+                    "toTimeStr": "10:40",
+                    "frequencyMinutes": 5.5
+                  },
+                  {
+                    "fromTime": 58380,
+                    "toTime": 71220,
+                    "fromTimeStr": "16:13",
+                    "toTimeStr": "19:47",
+                    "frequencyMinutes": 5.5
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "YELACHENAHALLI",
+                "toTerminal": "MADAVARA",
+                "timeSlots": [
+                  {
+                    "fromTime": 26460,
+                    "toTime": 40980,
+                    "fromTimeStr": "07:21",
+                    "toTimeStr": "11:23",
+                    "frequencyMinutes": 5.5
+                  },
+                  {
+                    "fromTime": 61080,
+                    "toTime": 74160,
+                    "fromTimeStr": "16:58",
+                    "toTimeStr": "20:36",
+                    "frequencyMinutes": 5.5
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          },
+          "sunday": {
+            "routes": [
+              {
+                "fromTerminal": "MADAVARA",
+                "toTerminal": "SILK INSTITUTE",
+                "timeSlots": [
+                  {
+                    "fromTime": 25200,
+                    "toTime": 38820,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "10:47",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 38820,
+                    "toTime": 72900,
+                    "fromTimeStr": "10:47",
+                    "toTimeStr": "20:15",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 72900,
+                    "toTime": 79500,
+                    "fromTimeStr": "20:15",
+                    "toTimeStr": "22:05",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 79500,
+                    "toTime": 80940,
+                    "fromTimeStr": "22:05",
+                    "toTimeStr": "22:29",
+                    "frequencyMinutes": 12
+                  },
+                  {
+                    "fromTime": 80940,
+                    "toTime": 82800,
+                    "fromTimeStr": "22:29",
+                    "toTimeStr": "23:00",
+                    "frequencyMinutes": 15
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "SILK INSTITUTE",
+                "toTerminal": "MADAVARA",
+                "timeSlots": [
+                  {
+                    "fromTime": 25200,
+                    "toTime": 28680,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "07:58",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 28680,
+                    "toTime": 43680,
+                    "fromTimeStr": "07:58",
+                    "toTimeStr": "12:08",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 43680,
+                    "toTime": 78240,
+                    "fromTimeStr": "12:08",
+                    "toTimeStr": "21:44",
+                    "frequencyMinutes": 8
+                  },
+                  {
+                    "fromTime": 78240,
+                    "toTime": 81840,
+                    "fromTimeStr": "21:44",
+                    "toTimeStr": "22:44",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 81840,
+                    "toTime": 83100,
+                    "fromTimeStr": "22:44",
+                    "toTimeStr": "23:05",
+                    "frequencyMinutes": 12
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          }
+        }
+      },
+      "yellow": {
+        "id": "yellow",
+        "name": "Yellow Line",
+        "color": "#FBC02D",
+        "terminals": {
+          "up": "Rashtreeya Vidyalaya Road",
+          "down": "Bommasandra"
+        },
+        "stations": [
+          "Rashtreeya Vidyalaya Road (RV Road)",
+          "Ragigudda",
+          "Jayadeva Hospital",
+          "BTM Layout",
+          "Central Silk Board",
+          "Bommanahalli (Roopena Agrahara)",
+          "Hongasandra (Garvebhavi Palya)",
+          "Kudlu Gate",
+          "Singasandra",
+          "Hosa Road",
+          "Beratena Agrahara",
+          "Electronic City",
+          "Konappana Agrahara (Infosys)",
+          "Huskur Road",
+          "Hebbagodi",
+          "Bommasandra"
+        ],
+        "travelTimes": [
+          {
+            "station1": "Rashtreeya Vidyalaya Road (RV Road)",
+            "station2": "Ragigudda",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Ragigudda",
+            "station2": "Jayadeva Hospital",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Jayadeva Hospital",
+            "station2": "BTM Layout",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "BTM Layout",
+            "station2": "Central Silk Board",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Central Silk Board",
+            "station2": "Bommanahalli (Roopena Agrahara)",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Bommanahalli",
+            "station2": "Hongasandra (Garvebhavi Palya)",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Hongasandra",
+            "station2": "Kudlu Gate",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Kudlu Gate",
+            "station2": "Singasandra",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Singasandra",
+            "station2": "Hosa Road",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Hosa Road",
+            "station2": "Beratena Agrahara",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Beratena Agrahara",
+            "station2": "Electronic City",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Electronic City",
+            "station2": "Konappana Agrahara (Infosys)",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Konappana Agrahara",
+            "station2": "Huskur Road",
+            "travelTimeMinutes": 2
+          },
+          {
+            "station1": "Huskur Road",
+            "station2": "Hebbagodi",
+            "travelTimeMinutes": 3
+          },
+          {
+            "station1": "Hebbagodi",
+            "station2": "Bommasandra",
+            "travelTimeMinutes": 3
+          }
+        ],
+        "schedules": {
+          "monday": {
+            "routes": [
+              {
+                "fromTerminal": "R V Road",
+                "toTerminal": "Bommasandra",
+                "timeSlots": [
+                  {
+                    "fromTime": 18300,
+                    "toTime": 20100,
+                    "fromTimeStr": "05:05",
+                    "toTimeStr": "05:35",
+                    "frequencyMinutes": 30
+                  },
+                  {
+                    "fromTime": 20100,
+                    "toTime": 21600,
+                    "fromTimeStr": "05:35",
+                    "toTimeStr": "06:00",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 21600,
+                    "toTime": 24000,
+                    "fromTimeStr": "06:00",
+                    "toTimeStr": "06:40",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 24000,
+                    "toTime": 24960,
+                    "fromTimeStr": "06:40",
+                    "toTimeStr": "06:56",
+                    "frequencyMinutes": 16
+                  },
+                  {
+                    "fromTime": 24960,
+                    "toTime": 38760,
+                    "fromTimeStr": "06:56",
+                    "toTimeStr": "10:46",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 38760,
+                    "toTime": 39660,
+                    "fromTimeStr": "10:46",
+                    "toTimeStr": "11:01",
+                    "frequencyMinutes": 16
+                  },
+                  {
+                    "fromTime": 39660,
+                    "toTime": 61260,
+                    "fromTimeStr": "11:01",
+                    "toTimeStr": "17:01",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 61260,
+                    "toTime": 78660,
+                    "fromTimeStr": "17:01",
+                    "toTimeStr": "21:51",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 78660,
+                    "toTime": 79500,
+                    "fromTimeStr": "21:51",
+                    "toTimeStr": "22:05",
+                    "frequencyMinutes": 14
+                  },
+                  {
+                    "fromTime": 79500,
+                    "toTime": 80400,
+                    "fromTimeStr": "22:05",
+                    "toTimeStr": "22:20",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 80400,
+                    "toTime": 82800,
+                    "fromTimeStr": "22:20",
+                    "toTimeStr": "23:00",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 82800,
+                    "toTime": 84300,
+                    "fromTimeStr": "23:00",
+                    "toTimeStr": "23:25",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 84300,
+                    "toTime": 86100,
+                    "fromTimeStr": "23:25",
+                    "toTimeStr": "23:55",
+                    "frequencyMinutes": 30
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Bommasandra",
+                "toTerminal": "R V Road",
+                "timeSlots": [
+                  {
+                    "fromTime": 18300,
+                    "toTime": 20100,
+                    "fromTimeStr": "05:05",
+                    "toTimeStr": "05:35",
+                    "frequencyMinutes": 30
+                  },
+                  {
+                    "fromTime": 20100,
+                    "toTime": 21600,
+                    "fromTimeStr": "05:35",
+                    "toTimeStr": "06:00",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 21600,
+                    "toTime": 24000,
+                    "fromTimeStr": "06:00",
+                    "toTimeStr": "06:40",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 24000,
+                    "toTime": 36600,
+                    "fromTimeStr": "06:40",
+                    "toTimeStr": "10:10",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 36600,
+                    "toTime": 37500,
+                    "fromTimeStr": "10:10",
+                    "toTimeStr": "10:25",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 37500,
+                    "toTime": 59100,
+                    "fromTimeStr": "10:25",
+                    "toTimeStr": "16:25",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 59100,
+                    "toTime": 78900,
+                    "fromTimeStr": "16:25",
+                    "toTimeStr": "21:55",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 78900,
+                    "toTime": 80700,
+                    "fromTimeStr": "21:55",
+                    "toTimeStr": "22:25",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 80700,
+                    "toTime": 81720,
+                    "fromTimeStr": "22:25",
+                    "toTimeStr": "22:42",
+                    "frequencyMinutes": 17
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          },
+          "saturday": {
+            "routes": [
+              {
+                "fromTerminal": "R V Road",
+                "toTerminal": "Bommasandra",
+                "timeSlots": [
+                  {
+                    "fromTime": 21600,
+                    "toTime": 23100,
+                    "fromTimeStr": "06:00",
+                    "toTimeStr": "06:25",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 23100,
+                    "toTime": 24300,
+                    "fromTimeStr": "06:25",
+                    "toTimeStr": "06:45",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 24300,
+                    "toTime": 25260,
+                    "fromTimeStr": "06:45",
+                    "toTimeStr": "07:01",
+                    "frequencyMinutes": 16
+                  },
+                  {
+                    "fromTime": 25260,
+                    "toTime": 26160,
+                    "fromTimeStr": "07:01",
+                    "toTimeStr": "07:16",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 26160,
+                    "toTime": 38760,
+                    "fromTimeStr": "07:16",
+                    "toTimeStr": "10:46",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 38760,
+                    "toTime": 39660,
+                    "fromTimeStr": "10:46",
+                    "toTimeStr": "11:01",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 39660,
+                    "toTime": 61260,
+                    "fromTimeStr": "11:01",
+                    "toTimeStr": "17:01",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 61260,
+                    "toTime": 78660,
+                    "fromTimeStr": "17:01",
+                    "toTimeStr": "21:51",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 78660,
+                    "toTime": 79500,
+                    "fromTimeStr": "21:51",
+                    "toTimeStr": "22:05",
+                    "frequencyMinutes": 14
+                  },
+                  {
+                    "fromTime": 79500,
+                    "toTime": 80400,
+                    "fromTimeStr": "22:05",
+                    "toTimeStr": "22:20",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 80400,
+                    "toTime": 82800,
+                    "fromTimeStr": "22:20",
+                    "toTimeStr": "23:00",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 82800,
+                    "toTime": 84300,
+                    "fromTimeStr": "23:00",
+                    "toTimeStr": "23:25",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 84300,
+                    "toTime": 86100,
+                    "fromTimeStr": "23:25",
+                    "toTimeStr": "23:55",
+                    "frequencyMinutes": 30
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Bommasandra",
+                "toTerminal": "R V Road",
+                "timeSlots": [
+                  {
+                    "fromTime": 21600,
+                    "toTime": 24000,
+                    "fromTimeStr": "06:00",
+                    "toTimeStr": "06:40",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 24000,
+                    "toTime": 36600,
+                    "fromTimeStr": "06:40",
+                    "toTimeStr": "10:10",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 36600,
+                    "toTime": 37500,
+                    "fromTimeStr": "10:10",
+                    "toTimeStr": "10:25",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 37500,
+                    "toTime": 59100,
+                    "fromTimeStr": "10:25",
+                    "toTimeStr": "16:25",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 59100,
+                    "toTime": 78900,
+                    "fromTimeStr": "16:25",
+                    "toTimeStr": "21:55",
+                    "frequencyMinutes": 10
+                  },
+                  {
+                    "fromTime": 78900,
+                    "toTime": 80700,
+                    "fromTimeStr": "21:55",
+                    "toTimeStr": "22:25",
+                    "frequencyMinutes": 15
+                  },
+                  {
+                    "fromTime": 80700,
+                    "toTime": 81720,
+                    "fromTimeStr": "22:25",
+                    "toTimeStr": "22:42",
+                    "frequencyMinutes": 17
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          },
+          "sunday": {
+            "routes": [
+              {
+                "fromTerminal": "RV Road",
+                "toTerminal": "Bommasandra",
+                "timeSlots": [
+                  {
+                    "fromTime": 25200,
+                    "toTime": 42480,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "11:48",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 42480,
+                    "toTime": 76080,
+                    "fromTimeStr": "11:48",
+                    "toTimeStr": "21:08",
+                    "frequencyMinutes": 14
+                  },
+                  {
+                    "fromTime": 76080,
+                    "toTime": 77160,
+                    "fromTimeStr": "21:08",
+                    "toTimeStr": "21:26",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 77160,
+                    "toTime": 78300,
+                    "fromTimeStr": "21:26",
+                    "toTimeStr": "21:45",
+                    "frequencyMinutes": 19
+                  },
+                  {
+                    "fromTime": 78300,
+                    "toTime": 81900,
+                    "fromTimeStr": "21:45",
+                    "toTimeStr": "22:45",
+                    "frequencyMinutes": 20
+                  },
+                  {
+                    "fromTime": 81900,
+                    "toTime": 84900,
+                    "fromTimeStr": "22:45",
+                    "toTimeStr": "23:35",
+                    "frequencyMinutes": 25
+                  },
+                  {
+                    "fromTime": 84900,
+                    "toTime": 86100,
+                    "fromTimeStr": "23:35",
+                    "toTimeStr": "23:55",
+                    "frequencyMinutes": 20
+                  }
+                ]
+              },
+              {
+                "fromTerminal": "Bommasandra",
+                "toTerminal": "RV Road",
+                "timeSlots": [
+                  {
+                    "fromTime": 25200,
+                    "toTime": 40920,
+                    "fromTimeStr": "07:00",
+                    "toTimeStr": "11:22",
+                    "frequencyMinutes": 18
+                  },
+                  {
+                    "fromTime": 40320,
+                    "toTime": 80640,
+                    "fromTimeStr": "11:12",
+                    "toTimeStr": "22:24",
+                    "frequencyMinutes": 14
+                  },
+                  {
+                    "fromTime": 80640,
+                    "toTime": 81720,
+                    "fromTimeStr": "22:24",
+                    "toTimeStr": "22:42",
+                    "frequencyMinutes": 18
+                  }
+                ]
+              }
+            ],
+            "shortLoops": []
+          }
+        }
+      }
+    }
+  },
+  "stationTranslations": {
+    "Whitefield (Kadugodi)": {
+      "en": "Whitefield (Kadugodi)",
+      "kn": "ವೈಟ್‌ಫೀಲ್ಡ್ (ಕಾಡುಗೋಡಿ)",
+      "hi": "व्हाइटफील्ड (कडुगोडी)"
+    },
+    "Hopefarm Channasandra": {
+      "en": "Hopefarm Channasandra",
+      "kn": "ಹೋಪ್‌ಫಾರ್ಮ್ ಚನ್ನಸಂದ್ರ",
+      "hi": "होपफार्म चन्नासंद्रा"
+    },
+    "Kadugodi Tree Park": {
+      "en": "Kadugodi Tree Park",
+      "kn": "ಕಾಡುಗೋಡಿ ಟ್ರೀ ಪಾರ್ಕ್",
+      "hi": "कडुगोडी ट्री पार्क"
+    },
+    "Pattandur Agrahara": {
+      "en": "Pattandur Agrahara",
+      "kn": "ಪಟ್ಟಂದೂರು ಅಗ್ರಹಾರ",
+      "hi": "पट्टंदूर अग्रहार"
+    },
+    "Sri Sathya Sai Hospital": {
+      "en": "Sri Sathya Sai Hospital",
+      "kn": "ಶ್ರೀ ಸತ್ಯ ಸಾಯಿ ಆಸ್ಪತ್ರೆ",
+      "hi": "श्री सत्य साई अस्पताल"
+    },
+    "Nallurhalli": {
+      "en": "Nallurhalli",
+      "kn": "ನಲ್ಲೂರಹಳ್ಳಿ",
+      "hi": "नल्लूरहल्ली"
+    },
+    "Kundalahalli": {
+      "en": "Kundalahalli",
+      "kn": "ಕುಂದಲಹಳ್ಳಿ",
+      "hi": "कुंदलहल्ली"
+    },
+    "Seetharamapalya": {
+      "en": "Seetharamapalya",
+      "kn": "ಸೀತಾರಾಮಪಾಲ್ಯ",
+      "hi": "सीतारामपाल्या"
+    },
+    "Hoodi": {
+      "en": "Hoodi",
+      "kn": "ಹೂಡಿ",
+      "hi": "हूडी"
+    },
+    "Garudacharpalya": {
+      "en": "Garudacharpalya",
+      "kn": "ಗರುಡಾಚಾರ್‌ಪಾಲ್ಯ",
+      "hi": "गरुडाचारपाल्या"
+    },
+    "Singayyanapalya": {
+      "en": "Singayyanapalya",
+      "kn": "ಸಿಂಗಯ್ಯನಪಾಲ್ಯ",
+      "hi": "सिंगय्यनपाल्या"
+    },
+    "Krishnarajapura (K.R. Pura)": {
+      "en": "Krishnarajapura (K.R. Pura)",
+      "kn": "ಕೃಷ್ಣರಾಜಪುರ (ಕೆ.ಆರ್. ಪುರ)",
+      "hi": "कृष्णराजपुर (के.आर. पुरा)"
+    },
+    "Benniganahalli": {
+      "en": "Benniganahalli",
+      "kn": "ಬೆನ್ನಿಗನಹಳ್ಳಿ",
+      "hi": "बेन्निगनहल्ली"
+    },
+    "Baiyappanahalli": {
+      "en": "Baiyappanahalli",
+      "kn": "ಬೈಯಪ್ಪನಹಳ್ಳಿ",
+      "hi": "बैयप्पनहल्ली"
+    },
+    "Swami Vivekananda Road": {
+      "en": "Swami Vivekananda Road",
+      "kn": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ರಸ್ತೆ",
+      "hi": "स्वामी विवेकानंद रोड"
+    },
+    "Indiranagar": {
+      "en": "Indiranagar",
+      "kn": "ಇಂದಿರಾನಗರ",
+      "hi": "इंदिरानगर"
+    },
+    "Halasuru": {
+      "en": "Halasuru",
+      "kn": "ಹಲಸೂರು",
+      "hi": "हलसूरु"
+    },
+    "Trinity": {
+      "en": "Trinity",
+      "kn": "ಟ್ರಿನಿಟಿ",
+      "hi": "ट्रिनिटी"
+    },
+    "MG Road": {
+      "en": "MG Road",
+      "kn": "ಎಂ.ಜಿ. ರಸ್ತೆ",
+      "hi": "एम.जी. रोड"
+    },
+    "Cubbon Park": {
+      "en": "Cubbon Park",
+      "kn": "ಕಬ್ಬನ್ ಪಾರ್ಕ್",
+      "hi": "कब्बन पार्क"
+    },
+    "Dr. B.R. Ambedkar (Vidhana Soudha)": {
+      "en": "Dr. B.R. Ambedkar (Vidhana Soudha)",
+      "kn": "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್ (ವಿಧಾನ ಸೌಧ)",
+      "hi": "डॉ. बी.आर. अंबेडकर (विधान सौध)"
+    },
+    "Sir M. Visveswaraya (Central College)": {
+      "en": "Sir M. Visveswaraya (Central College)",
+      "kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ (ಸೆಂಟ್ರಲ್ ಕಾಲೇಜು)",
+      "hi": "सर एम. विश्वेश्वरैया (सेंट्रल कॉलेज)"
+    },
+    "Nadaprabhu Kempegowda (Majestic)": {
+      "en": "Nadaprabhu Kempegowda (Majestic)",
+      "kn": "ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡ (ಮೆಜೆಸ್ಟಿಕ್)",
+      "hi": "नाडप्रभु केम्पेगौड़ा (मेजेस्टिक)"
+    },
+    "KSR City Railway Station": {
+      "en": "KSR City Railway Station",
+      "kn": "ಕೆಎಸ್‌ಆರ್ ಸಿಟಿ ರೈಲ್ವೆ ನಿಲ್ದಾಣ",
+      "hi": "केएसआर सिटी रेलवे स्टेशन"
+    },
+    "Magadi Road": {
+      "en": "Magadi Road",
+      "kn": "ಮಾಗಡಿ ರಸ್ತೆ",
+      "hi": "मागड़ी रोड"
+    },
+    "Hosahalli": {
+      "en": "Hosahalli",
+      "kn": "ಹೊಸಹಳ್ಳಿ",
+      "hi": "होसहल्ली"
+    },
+    "Vijayanagar": {
+      "en": "Vijayanagar",
+      "kn": "ವಿಜಯನಗರ",
+      "hi": "विजयनगर"
+    },
+    "Attiguppe": {
+      "en": "Attiguppe",
+      "kn": "ಅಟ್ಟಿಗುಪ್ಪೆ",
+      "hi": "अट्टीगुप्पे"
+    },
+    "Deepanjali Nagar": {
+      "en": "Deepanjali Nagar",
+      "kn": "ದೀಪಾಂಜಲಿ ನಗರ",
+      "hi": "दीपांजलि नगर"
+    },
+    "Mysuru Road": {
+      "en": "Mysuru Road",
+      "kn": "ಮೈಸೂರು ರಸ್ತೆ",
+      "hi": "मैसूरु रोड"
+    },
+    "Pantharapalya (Nayandahalli)": {
+      "en": "Pantharapalya (Nayandahalli)",
+      "kn": "ಪಂತರಪಾಲ್ಯ (ನಾಯಂದಹಳ್ಳಿ)",
+      "hi": "पंथरापाल्या (नायंदहल्ली)"
+    },
+    "Rajarajeshwari Nagar": {
+      "en": "Rajarajeshwari Nagar",
+      "kn": "ರಾಜರಾಜೇಶ್ವರಿ ನಗರ",
+      "hi": "राजराजेश्वरी नगर"
+    },
+    "Jnanabharathi": {
+      "en": "Jnanabharathi",
+      "kn": "ಜ್ಞಾನಭಾರತಿ",
+      "hi": "ज्ञानभारती"
+    },
+    "Pattanagere": {
+      "en": "Pattanagere",
+      "kn": "ಪಟ್ಟಣಗೆರೆ",
+      "hi": "पट्टनगेरे"
+    },
+    "Kengeri Bus Terminal": {
+      "en": "Kengeri Bus Terminal",
+      "kn": "ಕೆಂಗೇರಿ ಬಸ್ ನಿಲ್ದಾಣ",
+      "hi": "केंगेरी बस टर्मिनल"
+    },
+    "Kengeri": {
+      "en": "Kengeri",
+      "kn": "ಕೆಂಗೇರಿ",
+      "hi": "केंगेरी"
+    },
+    "Challaghatta": {
+      "en": "Challaghatta",
+      "kn": "ಚಲ್ಲಘಟ್ಟ",
+      "hi": "चल्लघट्टा"
+    },
+    "Madavara (BIEC)": {
+      "en": "Madavara (BIEC)",
+      "kn": "ಮಾದಾವರ (ಬಿಐಇಸಿ)",
+      "hi": "मादावरा (बीआईईसी)"
+    },
+    "Chikkabidarakallu": {
+      "en": "Chikkabidarakallu",
+      "kn": "ಚಿಕ್ಕಬಿದರಕಲ್ಲು",
+      "hi": "चिक्कबिदरकल्लु"
+    },
+    "Manjunathanagar": {
+      "en": "Manjunathanagar",
+      "kn": "ಮಂಜುನಾಥನಗರ",
+      "hi": "मंजुनाथनगर"
+    },
+    "Nagasandra": {
+      "en": "Nagasandra",
+      "kn": "ನಾಗಸಂದ್ರ",
+      "hi": "नागसंद्रा"
+    },
+    "Dasarahalli": {
+      "en": "Dasarahalli",
+      "kn": "ದಾಸರಹಳ್ಳಿ",
+      "hi": "दासरहल्ली"
+    },
+    "Jalahalli": {
+      "en": "Jalahalli",
+      "kn": "ಜಲಹಳ್ಳಿ",
+      "hi": "जलहल्ली"
+    },
+    "Peenya Industry": {
+      "en": "Peenya Industry",
+      "kn": "ಪೀಣ್ಯ ಕೈಗಾರಿಕೆ",
+      "hi": "पीन्या इंडस्ट्री"
+    },
+    "Peenya": {
+      "en": "Peenya",
+      "kn": "ಪೀಣ್ಯ",
+      "hi": "पीन्या"
+    },
+    "Goraguntepalya": {
+      "en": "Goraguntepalya",
+      "kn": "ಗೊರಗುಂಟೆಪಾಲ್ಯ",
+      "hi": "गोरगुंटेपाल्या"
+    },
+    "Yeshwanthpur": {
+      "en": "Yeshwanthpur",
+      "kn": "ಯಶವಂತಪುರ",
+      "hi": "यशवंतपुर"
+    },
+    "Sandal Soap Factory": {
+      "en": "Sandal Soap Factory",
+      "kn": "ಸ್ಯಾಂಡಲ್ ಸೋಪ್ ಫ್ಯಾಕ್ಟರಿ",
+      "hi": "सैंडल सोप फैक्ट्री"
+    },
+    "Mahalakshmi": {
+      "en": "Mahalakshmi",
+      "kn": "ಮಹಾಲಕ್ಷ್ಮಿ",
+      "hi": "महालक्ष्मी"
+    },
+    "Rajajinagar": {
+      "en": "Rajajinagar",
+      "kn": "ರಾಜಾಜಿನಗರ",
+      "hi": "राजाजीनगर"
+    },
+    "Mahakavi Kuvempu Road": {
+      "en": "Mahakavi Kuvempu Road",
+      "kn": "ಮಹಾಕವಿ ಕುವೆಂಪು ರಸ್ತೆ",
+      "hi": "महाकवि कुवेम्पु रोड"
+    },
+    "Srirampura": {
+      "en": "Srirampura",
+      "kn": "ಶ್ರೀರಾಂಪುರ",
+      "hi": "श्रीरामपुरा"
+    },
+    "Mantri Square Sampige Road": {
+      "en": "Mantri Square Sampige Road",
+      "kn": "ಮಂತ್ರಿ ಸ್ಕ್ವೇರ್ ಸಂಪಿಗೆ ರಸ್ತೆ",
+      "hi": "मंत्री स्क्वायर संपिगे रोड"
+    },
+    "Chickpete": {
+      "en": "Chickpete",
+      "kn": "ಚಿಕ್ಕಪೇಟೆ",
+      "hi": "चिकपेट"
+    },
+    "Krishna Rajendra Market": {
+      "en": "Krishna Rajendra Market",
+      "kn": "ಕೃಷ್ಣ ರಾಜೇಂದ್ರ ಮಾರುಕಟ್ಟೆ",
+      "hi": "कृष्ण राजेंद्र मार्केट"
+    },
+    "National College": {
+      "en": "National College",
+      "kn": "ನ್ಯಾಷನಲ್ ಕಾಲೇಜು",
+      "hi": "नेशनल कॉलेज"
+    },
+    "Lalbagh": {
+      "en": "Lalbagh",
+      "kn": "ಲಾಲ್‌ಬಾಗ್",
+      "hi": "लालबाग"
+    },
+    "South End Circle": {
+      "en": "South End Circle",
+      "kn": "ಸೌತ್ ಎಂಡ್ ಸರ್ಕಲ್",
+      "hi": "साउथ एंड सर्कल"
+    },
+    "Jayanagar": {
+      "en": "Jayanagar",
+      "kn": "ಜಯನಗರ",
+      "hi": "जयनगर"
+    },
+    "Rashtreeya Vidyalaya Road": {
+      "en": "Rashtreeya Vidyalaya Road",
+      "kn": "ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾಲಯ ರಸ್ತೆ",
+      "hi": "राष्ट्रीय विद्यालय रोड"
+    },
+    "Banashankari": {
+      "en": "Banashankari",
+      "kn": "ಬನಶಂಕರಿ",
+      "hi": "बनशंकरी"
+    },
+    "Jaya Prakash Nagar": {
+      "en": "Jaya Prakash Nagar",
+      "kn": "ಜಯಪ್ರಕಾಶ್ ನಗರ",
+      "hi": "जयप्रकाश नगर"
+    },
+    "Yelachenahalli": {
+      "en": "Yelachenahalli",
+      "kn": "ಯಲಚೇನಹಳ್ಳಿ",
+      "hi": "येलचेनहल्ली"
+    },
+    "Konanakunte Cross": {
+      "en": "Konanakunte Cross",
+      "kn": "ಕೋಣನಕುಂಟೆ ಕ್ರಾಸ್",
+      "hi": "कोनानकुंटे क्रॉस"
+    },
+    "Doddakallasandra": {
+      "en": "Doddakallasandra",
+      "kn": "ದೊಡ್ಡಕಲ್ಲಸಂದ್ರ",
+      "hi": "दोड्डकल्लसंद्रा"
+    },
+    "Vajarahalli": {
+      "en": "Vajarahalli",
+      "kn": "ವಜ್ರಹಳ್ಳಿ",
+      "hi": "वज्रहल्ली"
+    },
+    "Thalaghattapura": {
+      "en": "Thalaghattapura",
+      "kn": "ತಲಘಟ್ಟಪುರ",
+      "hi": "थलघट्टपुरा"
+    },
+    "Silk Institute": {
+      "en": "Silk Institute",
+      "kn": "ಸಿಲ್ಕ್ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್",
+      "hi": "सिल्क इंस्टीट्यूट"
+    },
+    "Rashtreeya Vidyalaya Road (RV Road)": {
+      "en": "Rashtreeya Vidyalaya Road (RV Road)",
+      "kn": "ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾಲಯ ರಸ್ತೆ (ಆರ್.ವಿ. ರಸ್ತೆ)",
+      "hi": "राष्ट्रीय विद्यालय रोड (आर.वी. रोड)"
+    },
+    "Ragigudda": {
+      "en": "Ragigudda",
+      "kn": "ರಾಗಿಗುಡ್ಡ",
+      "hi": "रागीगुड्डा"
+    },
+    "Jayadeva Hospital": {
+      "en": "Jayadeva Hospital",
+      "kn": "ಜಯದೇವ ಆಸ್ಪತ್ರೆ",
+      "hi": "जयदेव अस्पताल"
+    },
+    "BTM Layout": {
+      "en": "BTM Layout",
+      "kn": "ಬಿಟಿಎಂ ಲೇಔಟ್",
+      "hi": "बीटीएम लेआउट"
+    },
+    "Silk Board": {
+      "en": "Silk Board",
+      "kn": "ಸಿಲ್ಕ್ ಬೋರ್ಡ್",
+      "hi": "सिल्क बोर्ड"
+    },
+    "HSR Layout": {
+      "en": "HSR Layout",
+      "kn": "ಎಚ್‌ಎಸ್‌ಆರ್ ಲೇಔಟ್",
+      "hi": "एचएसआर लेआउट"
+    },
+    "Hongasandra (Garvebhavi Palya)": {
+      "en": "Hongasandra (Garvebhavi Palya)",
+      "kn": "ಹೊಂಗಸಂದ್ರ (ಗರ್ವೆಭಾವಿ ಪಾಲ್ಯ)",
+      "hi": "होंगसंद्रा (गर्वेभावी पाल्या)"
+    },
+    "Kudlu Gate": {
+      "en": "Kudlu Gate",
+      "kn": "ಕುದ್ಲು ಗೇಟ್",
+      "hi": "कुडलू गेट"
+    },
+    "Singasandra": {
+      "en": "Singasandra",
+      "kn": "ಸಿಂಗಸಂದ್ರ",
+      "hi": "सिंगसंद्रा"
+    },
+    "Hosa Road": {
+      "en": "Hosa Road",
+      "kn": "ಹೊಸ ರಸ್ತೆ",
+      "hi": "होसा रोड"
+    },
+    "Beratena Agrahara": {
+      "en": "Beratena Agrahara",
+      "kn": "ಬೆರಟೆನ ಅಗ್ರಹಾರ",
+      "hi": "बेरटेना अग्रहार"
+    },
+    "Electronic City": {
+      "en": "Electronic City",
+      "kn": "ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸಿಟಿ",
+      "hi": "इलेक्ट्रॉनिक सिटी"
+    },
+    "Infosys Foundation - Konappana Agrahara": {
+      "en": "Infosys Foundation - Konappana Agrahara",
+      "kn": "ಇನ್ಫೋಸಿಸ್ ಫೌಂಡೇಶನ್ - ಕೊಣಪ್ಪನ ಅಗ್ರಹಾರ",
+      "hi": "इन्फोसिस फाउंडेशन - कोनप्पना अग्रहार"
+    },
+    "Huskur Road": {
+      "en": "Huskur Road",
+      "kn": "ಹುಸ್ಕೂರ್ ರಸ್ತೆ",
+      "hi": "हुसकुर रोड"
+    },
+    "Hebbagodi": {
+      "en": "Hebbagodi",
+      "kn": "ಹೆಬ್ಬಗೋಡಿ",
+      "hi": "हेब्बगोडी"
+    },
+    "Bommasandra": {
+      "en": "Bommasandra",
+      "kn": "ಬೊಮ್ಮಸಂದ್ರ",
+      "hi": "बोम्मसंद्रा"
+    }
+  },
+  "fares": [
+    {
+      "minStations": 1,
+      "maxStations": 2,
+      "fare": 10
+    },
+    {
+      "minStations": 3,
+      "maxStations": 4,
+      "fare": 20
+    },
+    {
+      "minStations": 5,
+      "maxStations": 6,
+      "fare": 30
+    },
+    {
+      "minStations": 7,
+      "maxStations": 8,
+      "fare": 40
+    },
+    {
+      "minStations": 9,
+      "maxStations": 10,
+      "fare": 50
+    },
+    {
+      "minStations": 11,
+      "maxStations": 15,
+      "fare": 60
+    },
+    {
+      "minStations": 16,
+      "maxStations": 20,
+      "fare": 70
+    },
+    {
+      "minStations": 21,
+      "maxStations": 25,
+      "fare": 80
+    },
+    {
+      "minStations": 26,
+      "maxStations": 999,
+      "fare": 90
+    }
+  ],
+  "discounts": {
+    "peakHours": 5,
+    "nonPeakHours": 10,
+    "sundayHoliday": 10
+  },
+  "holidays": [
+    {
+      "month": 1,
+      "day": 26,
+      "name": "Republic Day"
+    },
+    {
+      "month": 8,
+      "day": 15,
+      "name": "Independence Day"
+    },
+    {
+      "month": 10,
+      "day": 2,
+      "name": "Gandhi Jayanti"
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "name": "Kannada Rajyotsava"
+    }
+  ],
+  "interchanges": {
+    "Nadaprabhu Kempegowda (Majestic)": {
+      "lines": [
+        "purple",
+        "green"
+      ],
+      "indices": {
+        "purple": 22,
+        "green": 16
+      }
+    },
+    "Rashtreeya Vidyalaya Road": {
+      "lines": [
+        "green",
+        "yellow"
+      ],
+      "indices": {
+        "green": 23,
+        "yellow": 0
+      }
+    }
+  },
+  "interchangeAliases": {
+    "Rashtreeya Vidyalaya Road (RV Road)": "Rashtreeya Vidyalaya Road"
+  }
+}
